@@ -33,31 +33,36 @@
 
 <table>
   <tr>
-    <td width="28%" align="center" valign="middle">
+    <td width="220" align="center" valign="middle">
       <img
         src="https://raw.githubusercontent.com/mehrabJA/mehrabJA/main/profile.jpg"
-        alt="Mehrab Jalilian"
-        width="180"
+        alt="Portrait of Mehrab Jalilian"
+        width="190"
       />
-      <br/><br/>
-      <sub><strong>Mehrab Jalilian</strong></sub><br/>
-      <sub>AI Engineer · Researcher</sub>
     </td>
-    <td width="72%" valign="middle">
-      <h2>Building intelligent systems with an engineering mindset.</h2>
-      <p>
-        I work across <strong>machine learning</strong>, <strong>AI systems</strong>,
-        <strong>privacy-preserving AI</strong>, and <strong>performance engineering</strong>.
-      </p>
-      <p>
-        My interests include graph learning, large language models, federated learning,
-        differential privacy, systems measurement, and practical ML engineering.
-      </p>
-      <p>
-        <a href="https://mehrabjalilian.site/">
-          <img src="https://img.shields.io/badge/Explore%20My%20Work-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Explore my work" />
-        </a>
-      </p>
+    <td valign="middle">
+
+<h2>Mehrab Jalilian</h2>
+
+<p>
+<strong>AI Engineer & Researcher</strong><br/>
+<sub>Machine Learning · AI Systems · Privacy-Preserving AI · Performance Engineering</sub>
+</p>
+
+<p>
+<a href="https://mehrabjalilian.site/">
+<img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/mehrab-jalilian">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/mehrabJA">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</p>
+
+<p><sub>Mehrab Jalilian · مهراب جلیلیان</sub></p>
+
     </td>
   </tr>
 </table>
