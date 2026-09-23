@@ -42,7 +42,7 @@ My work sits at the intersection of:
 - Privacy-Preserving AI
 - MLOps, performance and systems engineering
 
-I care about **measurable performance, clear system design, reproducible experiments, and useful interfaces**.
+> **Engineering principle:** measurable performance, clear architecture, reproducible experiments, and interfaces that are useful—not ornamental.
 
 ---
 
@@ -56,17 +56,17 @@ I care about **measurable performance, clear system design, reproducible experim
     </td>
     <td width="50%" valign="top">
       <h3>🔐 Privacy-Preserving AI</h3>
-      <p>Federated learning, differential privacy, and approaches for building ML systems under real-world privacy constraints.</p>
+      <p>Federated learning, differential privacy, and ML systems designed around real-world privacy constraints.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>⚙️ Performance Engineering</h3>
-      <p>Low-level measurement, memory behavior, benchmarking, and understanding how software interacts with hardware.</p>
+      <p>Low-level measurement, memory behavior, benchmarking, and understanding software/hardware interaction.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Creative Technology</h3>
-      <p>Interactive interfaces, WebGL, Three.js, and visual systems that make complex technology easier to explore.</p>
+      <p>Interactive interfaces, WebGL, Three.js, and visual systems for making technical ideas easier to explore.</p>
     </td>
   </tr>
 </table>
@@ -95,28 +95,51 @@ I care about **measurable performance, clear system design, reproducible experim
 
 ---
 
-## Featured Work
+## Selected Work
 
-### MemoryLatencyAnalyzer
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ MemoryLatencyAnalyzer</h3>
+      <p><strong>Linux · C++17 · Performance</strong></p>
+      <p>
+        Memory-system analysis tooling for exploring latency, cache hierarchy,
+        bandwidth, access patterns, and system-level performance.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+        <img src="https://img.shields.io/badge/C%2B%2B17-111827?style=flat-square&logo=cplusplus&logoColor=white" alt="C++17" />
+        <img src="https://img.shields.io/badge/Benchmarking-8b5cf6?style=flat-square" alt="Benchmarking" />
+      </p>
+      <p>
+        <a href="https://github.com/mehrabJA/MemoryLatencyAnalyzer">
+          <img src="https://img.shields.io/badge/Explore%20Repository-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Explore MemoryLatencyAnalyzer" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌌 Personal Portfolio</h3>
+      <p><strong>AI · Research · WebGL</strong></p>
+      <p>
+        A visual engineering portfolio connecting research interests,
+        technical work, experiments, and creative technology.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Astro-111827?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+        <img src="https://img.shields.io/badge/WebGL-111827?style=flat-square" alt="WebGL" />
+        <img src="https://img.shields.io/badge/Creative%20Tech-8b5cf6?style=flat-square" alt="Creative Technology" />
+      </p>
+      <p>
+        <a href="https://mehrabjalilian.site/">
+          <img src="https://img.shields.io/badge/Visit%20Portfolio-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit portfolio" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-**Linux / C++17 performance tooling for memory-system analysis.**
-
-Measures and explores memory latency, cache hierarchy behavior, memory bandwidth, access patterns, and system-level performance characteristics.
-
-<p>
-  <a href="https://github.com/mehrabJA/MemoryLatencyAnalyzer">
-    <img src="https://img.shields.io/badge/View%20Project-MemoryLatencyAnalyzer-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="View MemoryLatencyAnalyzer" />
-  </a>
-</p>
-
-### Personal Website
-
-A visual research and engineering portfolio built around AI, systems, and creative technology.
-
-<p>
-  <a href="https://mehrabjalilian.site/">
-    <img src="https://img.shields.io/badge/Visit%20Website-mehrabjalilian.site-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit personal website" />
-  </a>
+<p align="center">
+  <sub>Selected repositories and projects are pinned on this profile.</sub>
 </p>
 
 ---
@@ -135,14 +158,15 @@ A visual research and engineering portfolio built around AI, systems, and creati
 
 ## Currently Exploring
 
-```text
-AI systems
-├── Graph Neural Networks
-├── Large Language Models
-├── Federated Learning
-├── Differential Privacy
-└── MLOps & reliable ML pipelines
-```
+<table>
+  <tr>
+    <td align="center"><strong>GNNs</strong><br/><sub>Graph learning</sub></td>
+    <td align="center"><strong>LLMs</strong><br/><sub>Language models</sub></td>
+    <td align="center"><strong>FL</strong><br/><sub>Federated learning</sub></td>
+    <td align="center"><strong>DP</strong><br/><sub>Differential privacy</sub></td>
+    <td align="center"><strong>MLOps</strong><br/><sub>Reliable pipelines</sub></td>
+  </tr>
+</table>
 
 ---
 
