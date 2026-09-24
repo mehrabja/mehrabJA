@@ -228,89 +228,154 @@ deep learning, NLP, computer vision, and systems-oriented work.
 
 ## Skills & Technology
 
-### Programming & Systems
+### 🧩 Core Programming & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/CMake-111827?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-### Machine Learning & AI
+### 🤖 Machine Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-8b5cf6?style=flat-square" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-8b5cf6?style=flat-square" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-8b5cf6?style=flat-square" alt="Keras" />
-  <img src="https://img.shields.io/badge/XGBoost-8b5cf6?style=flat-square" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/Transformers-8b5cf6?style=flat-square" alt="Hugging Face Transformers" />
-  <img src="https://img.shields.io/badge/GNNs-8b5cf6?style=flat-square" alt="GNNs" />
-  <img src="https://img.shields.io/badge/LLMs-8b5cf6?style=flat-square" alt="LLMs" />
-  <img src="https://img.shields.io/badge/CNNs-8b5cf6?style=flat-square" alt="CNNs" />
-</p>
-
-### Data & Analytics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-8b5cf6?style=flat-square" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-8b5cf6?style=flat-square" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/EDA-8b5cf6?style=flat-square" alt="Exploratory Data Analysis" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-8b5cf6?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Supervised%20Learning-8b5cf6?style=flat-square" alt="Supervised Learning" />
+  <img src="https://img.shields.io/badge/Regression-8b5cf6?style=flat-square" alt="Regression" />
+  <img src="https://img.shields.io/badge/Classification-8b5cf6?style=flat-square" alt="Classification" />
   <img src="https://img.shields.io/badge/Feature%20Engineering-8b5cf6?style=flat-square" alt="Feature Engineering" />
+  <img src="https://img.shields.io/badge/Feature%20Selection-8b5cf6?style=flat-square" alt="Feature Selection" />
+  <img src="https://img.shields.io/badge/Hyperparameter%20Tuning-8b5cf6?style=flat-square" alt="Hyperparameter Tuning" />
+  <img src="https://img.shields.io/badge/Cross--Validation-8b5cf6?style=flat-square" alt="Cross Validation" />
   <img src="https://img.shields.io/badge/Model%20Evaluation-8b5cf6?style=flat-square" alt="Model Evaluation" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-8b5cf6?style=flat-square" alt="Data Visualization" />
 </p>
 
-### Computer Vision
+<p align="center">
+  <img src="https://img.shields.io/badge/Linear%20Regression-8b5cf6?style=flat-square" alt="Linear Regression" />
+  <img src="https://img.shields.io/badge/Logistic%20Regression-8b5cf6?style=flat-square" alt="Logistic Regression" />
+  <img src="https://img.shields.io/badge/Ridge-8b5cf6?style=flat-square" alt="Ridge Regression" />
+  <img src="https://img.shields.io/badge/SGD-8b5cf6?style=flat-square" alt="SGD" />
+  <img src="https://img.shields.io/badge/KNN-8b5cf6?style=flat-square" alt="KNN" />
+  <img src="https://img.shields.io/badge/SVM-8b5cf6?style=flat-square" alt="SVM" />
+  <img src="https://img.shields.io/badge/Decision%20Trees-8b5cf6?style=flat-square" alt="Decision Trees" />
+  <img src="https://img.shields.io/badge/Random%20Forest-8b5cf6?style=flat-square" alt="Random Forest" />
+  <img src="https://img.shields.io/badge/XGBoost-8b5cf6?style=flat-square" alt="XGBoost" />
+</p>
+
+### 🧠 Deep Learning
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-8b5cf6?style=flat-square" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-8b5cf6?style=flat-square" alt="Neural Networks" />
+  <img src="https://img.shields.io/badge/CNNs-8b5cf6?style=flat-square" alt="CNNs" />
+  <img src="https://img.shields.io/badge/RNNs-8b5cf6?style=flat-square" alt="RNNs" />
+  <img src="https://img.shields.io/badge/LSTM-8b5cf6?style=flat-square" alt="LSTM" />
+  <img src="https://img.shields.io/badge/Time--Series%20Forecasting-8b5cf6?style=flat-square" alt="Time Series Forecasting" />
+  <img src="https://img.shields.io/badge/Keras-8b5cf6?style=flat-square" alt="Keras" />
+  <img src="https://img.shields.io/badge/TensorFlow-8b5cf6?style=flat-square" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Transfer%20Learning-8b5cf6?style=flat-square" alt="Transfer Learning" />
+</p>
+
+### 🕸️ Graph & Privacy-Preserving AI
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Graph%20Neural%20Networks-8b5cf6?style=flat-square" alt="Graph Neural Networks" />
+  <img src="https://img.shields.io/badge/GNNs-8b5cf6?style=flat-square" alt="GNNs" />
+  <img src="https://img.shields.io/badge/Federated%20Learning-8b5cf6?style=flat-square" alt="Federated Learning" />
+  <img src="https://img.shields.io/badge/Differential%20Privacy-8b5cf6?style=flat-square" alt="Differential Privacy" />
+  <img src="https://img.shields.io/badge/Privacy--Preserving%20AI-8b5cf6?style=flat-square" alt="Privacy Preserving AI" />
+  <img src="https://img.shields.io/badge/Distributed%20ML-8b5cf6?style=flat-square" alt="Distributed ML" />
+  <img src="https://img.shields.io/badge/Robust%20ML-8b5cf6?style=flat-square" alt="Robust ML" />
+</p>
+
+### 👁️ Computer Vision
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Vision-8b5cf6?style=flat-square" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/Image%20Classification-8b5cf6?style=flat-square" alt="Image Classification" />
   <img src="https://img.shields.io/badge/Object%20Detection-8b5cf6?style=flat-square" alt="Object Detection" />
-  <img src="https://img.shields.io/badge/YOLOv7-8b5cf6?style=flat-square" alt="YOLOv7" />
+  <img src="https://img.shields.io/badge/Image%20Processing-8b5cf6?style=flat-square" alt="Image Processing" />
+  <img src="https://img.shields.io/badge/Image%20Segmentation-8b5cf6?style=flat-square" alt="Image Segmentation" />
   <img src="https://img.shields.io/badge/Medical%20Imaging-8b5cf6?style=flat-square" alt="Medical Imaging" />
+  <img src="https://img.shields.io/badge/OCR-8b5cf6?style=flat-square" alt="OCR" />
+  <img src="https://img.shields.io/badge/YOLOv7-8b5cf6?style=flat-square" alt="YOLOv7" />
   <img src="https://img.shields.io/badge/License%20Plate%20Recognition-8b5cf6?style=flat-square" alt="License Plate Recognition" />
 </p>
 
-### NLP & Intelligent Applications
+### 💬 NLP & Language AI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NLP-8b5cf6?style=flat-square" alt="Natural Language Processing" />
+  <img src="https://img.shields.io/badge/NLP-8b5cf6?style=flat-square" alt="NLP" />
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-8b5cf6?style=flat-square" alt="Natural Language Processing" />
   <img src="https://img.shields.io/badge/Sentiment%20Analysis-8b5cf6?style=flat-square" alt="Sentiment Analysis" />
   <img src="https://img.shields.io/badge/Text%20Classification-8b5cf6?style=flat-square" alt="Text Classification" />
+  <img src="https://img.shields.io/badge/Text%20Preprocessing-8b5cf6?style=flat-square" alt="Text Preprocessing" />
+  <img src="https://img.shields.io/badge/Tokenization-8b5cf6?style=flat-square" alt="Tokenization" />
+  <img src="https://img.shields.io/badge/Lemmatization-8b5cf6?style=flat-square" alt="Lemmatization" />
   <img src="https://img.shields.io/badge/Hazm-8b5cf6?style=flat-square" alt="Hazm" />
-  <img src="https://img.shields.io/badge/FastAPI-8b5cf6?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-8b5cf6?style=flat-square" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Transformers-8b5cf6?style=flat-square" alt="Transformers" />
+  <img src="https://img.shields.io/badge/LLMs-8b5cf6?style=flat-square" alt="LLMs" />
 </p>
 
-### ML Systems & Engineering
+### 📊 Data Science & Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Time--Series-8b5cf6?style=flat-square" alt="Time Series" />
-  <img src="https://img.shields.io/badge/LSTM-8b5cf6?style=flat-square" alt="LSTM" />
-  <img src="https://img.shields.io/badge/Fuzzy%20Logic-8b5cf6?style=flat-square" alt="Fuzzy Logic" />
-  <img src="https://img.shields.io/badge/Model%20Tuning-8b5cf6?style=flat-square" alt="Model Tuning" />
-  <img src="https://img.shields.io/badge/Benchmarking-8b5cf6?style=flat-square" alt="Benchmarking" />
-  <img src="https://img.shields.io/badge/Performance%20Analysis-8b5cf6?style=flat-square" alt="Performance Analysis" />
-  <img src="https://img.shields.io/badge/MLOps-8b5cf6?style=flat-square" alt="MLOps" />
-  <img src="https://img.shields.io/badge/Privacy--Preserving%20AI-8b5cf6?style=flat-square" alt="Privacy-Preserving AI" />
-  <img src="https://img.shields.io/badge/Federated%20Learning-8b5cf6?style=flat-square" alt="Federated Learning" />
-  <img src="https://img.shields.io/badge/Differential%20Privacy-8b5cf6?style=flat-square" alt="Differential Privacy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-8b5cf6?style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-8b5cf6?style=flat-square" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-8b5cf6?style=flat-square" alt="Exploratory Data Analysis" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-8b5cf6?style=flat-square" alt="Data Cleaning" />
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-8b5cf6?style=flat-square" alt="Data Preprocessing" />
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-8b5cf6?style=flat-square" alt="Statistical Analysis" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-8b5cf6?style=flat-square" alt="Data Visualization" />
 </p>
 
-### Creative Technology
+### ⚙️ ML Engineering, APIs & Deployment
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ML%20Engineering-8b5cf6?style=flat-square" alt="ML Engineering" />
+  <img src="https://img.shields.io/badge/MLOps-8b5cf6?style=flat-square" alt="MLOps" />
+  <img src="https://img.shields.io/badge/Model%20Deployment-8b5cf6?style=flat-square" alt="Model Deployment" />
+  <img src="https://img.shields.io/badge/Model%20Serving-8b5cf6?style=flat-square" alt="Model Serving" />
+  <img src="https://img.shields.io/badge/FastAPI-8b5cf6?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Uvicorn-8b5cf6?style=flat-square" alt="Uvicorn" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Reproducible%20Experiments-8b5cf6?style=flat-square" alt="Reproducible Experiments" />
+  <img src="https://img.shields.io/badge/Model%20Monitoring-8b5cf6?style=flat-square" alt="Model Monitoring" />
+</p>
+
+### 🔧 Performance & Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Performance%20Engineering-8b5cf6?style=flat-square" alt="Performance Engineering" />
+  <img src="https://img.shields.io/badge/Benchmarking-8b5cf6?style=flat-square" alt="Benchmarking" />
+  <img src="https://img.shields.io/badge/Memory%20Latency-8b5cf6?style=flat-square" alt="Memory Latency" />
+  <img src="https://img.shields.io/badge/Cache%20Analysis-8b5cf6?style=flat-square" alt="Cache Analysis" />
+  <img src="https://img.shields.io/badge/Memory%20Bandwidth-8b5cf6?style=flat-square" alt="Memory Bandwidth" />
+  <img src="https://img.shields.io/badge/Systems%20Programming-8b5cf6?style=flat-square" alt="Systems Programming" />
+  <img src="https://img.shields.io/badge/Computer%20Architecture-8b5cf6?style=flat-square" alt="Computer Architecture" />
+</p>
+
+### 🌐 Application & Creative Technology
 
 <p align="center">
   <img src="https://img.shields.io/badge/WebGL-8b5cf6?style=flat-square" alt="WebGL" />
   <img src="https://img.shields.io/badge/Three.js-8b5cf6?style=flat-square" alt="Three.js" />
   <img src="https://img.shields.io/badge/Astro-8b5cf6?style=flat-square" alt="Astro" />
   <img src="https://img.shields.io/badge/GSAP-8b5cf6?style=flat-square" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Interactive%20UI-8b5cf6?style=flat-square" alt="Interactive UI" />
+  <img src="https://img.shields.io/badge/Technical%20Portfolio-8b5cf6?style=flat-square" alt="Technical Portfolio" />
 </p>
 
+---
 ---
 
 ## GitHub Activity
