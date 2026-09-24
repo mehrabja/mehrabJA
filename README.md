@@ -226,7 +226,9 @@ deep learning, NLP, computer vision, and systems-oriented work.
 
 ---
 
-## Technology
+## Skills & Technology
+
+### Programming & Systems
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -234,16 +236,79 @@ deep learning, NLP, computer vision, and systems-oriented work.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/CMake-111827?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
+
+### Machine Learning & AI
 
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--learn-8b5cf6?style=flat-square" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/TensorFlow-8b5cf6?style=flat-square" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-8b5cf6?style=flat-square" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/LLMs-8b5cf6?style=flat-square" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Keras-8b5cf6?style=flat-square" alt="Keras" />
+  <img src="https://img.shields.io/badge/XGBoost-8b5cf6?style=flat-square" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Transformers-8b5cf6?style=flat-square" alt="Hugging Face Transformers" />
   <img src="https://img.shields.io/badge/GNNs-8b5cf6?style=flat-square" alt="GNNs" />
+  <img src="https://img.shields.io/badge/LLMs-8b5cf6?style=flat-square" alt="LLMs" />
+  <img src="https://img.shields.io/badge/CNNs-8b5cf6?style=flat-square" alt="CNNs" />
+</p>
+
+### Data & Analytics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-8b5cf6?style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-8b5cf6?style=flat-square" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/EDA-8b5cf6?style=flat-square" alt="Exploratory Data Analysis" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-8b5cf6?style=flat-square" alt="Feature Engineering" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-8b5cf6?style=flat-square" alt="Model Evaluation" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-8b5cf6?style=flat-square" alt="Data Visualization" />
+</p>
+
+### Computer Vision
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Image%20Classification-8b5cf6?style=flat-square" alt="Image Classification" />
+  <img src="https://img.shields.io/badge/Object%20Detection-8b5cf6?style=flat-square" alt="Object Detection" />
+  <img src="https://img.shields.io/badge/YOLOv7-8b5cf6?style=flat-square" alt="YOLOv7" />
+  <img src="https://img.shields.io/badge/Medical%20Imaging-8b5cf6?style=flat-square" alt="Medical Imaging" />
+  <img src="https://img.shields.io/badge/License%20Plate%20Recognition-8b5cf6?style=flat-square" alt="License Plate Recognition" />
+</p>
+
+### NLP & Intelligent Applications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-8b5cf6?style=flat-square" alt="Natural Language Processing" />
+  <img src="https://img.shields.io/badge/Sentiment%20Analysis-8b5cf6?style=flat-square" alt="Sentiment Analysis" />
+  <img src="https://img.shields.io/badge/Text%20Classification-8b5cf6?style=flat-square" alt="Text Classification" />
+  <img src="https://img.shields.io/badge/Hazm-8b5cf6?style=flat-square" alt="Hazm" />
+  <img src="https://img.shields.io/badge/FastAPI-8b5cf6?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
+
+### ML Systems & Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Time--Series-8b5cf6?style=flat-square" alt="Time Series" />
+  <img src="https://img.shields.io/badge/LSTM-8b5cf6?style=flat-square" alt="LSTM" />
+  <img src="https://img.shields.io/badge/Fuzzy%20Logic-8b5cf6?style=flat-square" alt="Fuzzy Logic" />
+  <img src="https://img.shields.io/badge/Model%20Tuning-8b5cf6?style=flat-square" alt="Model Tuning" />
+  <img src="https://img.shields.io/badge/Benchmarking-8b5cf6?style=flat-square" alt="Benchmarking" />
+  <img src="https://img.shields.io/badge/Performance%20Analysis-8b5cf6?style=flat-square" alt="Performance Analysis" />
   <img src="https://img.shields.io/badge/MLOps-8b5cf6?style=flat-square" alt="MLOps" />
+  <img src="https://img.shields.io/badge/Privacy--Preserving%20AI-8b5cf6?style=flat-square" alt="Privacy-Preserving AI" />
+  <img src="https://img.shields.io/badge/Federated%20Learning-8b5cf6?style=flat-square" alt="Federated Learning" />
+  <img src="https://img.shields.io/badge/Differential%20Privacy-8b5cf6?style=flat-square" alt="Differential Privacy" />
+</p>
+
+### Creative Technology
+
+<p align="center">
   <img src="https://img.shields.io/badge/WebGL-8b5cf6?style=flat-square" alt="WebGL" />
+  <img src="https://img.shields.io/badge/Three.js-8b5cf6?style=flat-square" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Astro-8b5cf6?style=flat-square" alt="Astro" />
+  <img src="https://img.shields.io/badge/GSAP-8b5cf6?style=flat-square" alt="GSAP" />
 </p>
 
 ---
