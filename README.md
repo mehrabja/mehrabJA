@@ -43,54 +43,69 @@
     </td>
     <td width="75%" valign="middle">
       <p>
-        I am an AI engineer and computer engineering student interested in turning
-        research ideas into practical, measurable software.
+        I am an AI engineer and computer engineering student focused on building
+        intelligent systems and turning research ideas into useful software.
       </p>
       <p>
-        My work spans <strong>machine learning, computer vision, natural language processing,
-        privacy-preserving AI, and performance engineering</strong>. I enjoy working across
-        the full path — from data exploration and model development to evaluation,
-        deployment-oriented systems, and optimization.
+        My project work connects <strong>machine learning and deep learning, LLM-powered
+        research workflows, RAG and knowledge retrieval, data analytics, backend engineering,
+        and systems-level performance and security experiments</strong>.
       </p>
       <p>
-        I maintain <strong>27+ public project repositories</strong> covering applied ML,
-        deep learning, NLP, computer vision, data analysis, and systems work.
+        I work across the engineering lifecycle: data preparation, model development and
+        evaluation, API and database design, containerized applications, automated testing,
+        and CI workflows. I maintain <strong>27+ public project repositories</strong> spanning
+        applied AI, full-stack systems, computer vision, NLP, and low-level C++.
       </p>
     </td>
   </tr>
 </table>
 
-## ◈ Areas of Focus
+## ◈ Engineering Domains
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehrabja/mehrabJA/main/profile-skills.svg" width="100%" alt="Animated overview of AI, LLM, data, backend, DevOps, and security engineering domains" />
+</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Machine Learning & AI Systems</h3>
-      <sub>Model development · Evaluation · Reproducible pipelines · Applied AI</sub>
+      <h3>🧠 AI, Machine Learning & Deep Learning</h3>
+      <sub>Classical ML · Neural networks · CNNs · LSTMs · Forecasting · Model evaluation</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>👁️ Computer Vision</h3>
-      <sub>Image classification · Object detection · Medical imaging · OCR</sub>
+      <h3>🤖 LLM & Agent Engineering</h3>
+      <sub>Transformers · Embeddings · RAG · Vector retrieval · Knowledge graphs · MCP</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>💬 NLP & Language AI</h3>
-      <sub>Text processing · Sentiment analysis · Classification · LLM tooling</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔐 Privacy-Preserving AI</h3>
-      <sub>Federated learning · Differential privacy · Distributed ML</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Performance Engineering</h3>
-      <sub>Memory latency · Cache behavior · Benchmarking · Systems measurement</sub>
-    </td>
     <td width="50%" valign="top">
       <h3>📊 Data Science & Analytics</h3>
-      <sub>EDA · Feature analysis · Statistical reasoning · Visualization</sub>
+      <sub>SQL · EDA · Data cleaning · Feature engineering · Statistics · Visualization</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 Backend & Data Systems</h3>
+      <sub>REST APIs · FastAPI · Next.js · PostgreSQL · pgvector · Background workers</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 DevOps & MLOps</h3>
+      <sub>Linux · Docker · CI/CD · GitHub Actions · Automated testing · Model lifecycle</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Security & Systems Engineering</h3>
+      <sub>Application security foundations · Linux internals · x86-64 · Side-channel research · Defensive lab simulations</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👁️ Computer Vision & NLP</h3>
+      <sub>YOLO · OCR · Image classification · Persian NLP · Sentiment analysis · Transformers</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Web & Creative Technology</h3>
+      <sub>Astro · Three.js · GSAP · WebGL · Interactive experiences</sub>
     </td>
   </tr>
 </table>
@@ -148,6 +163,38 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 Research AI</h3>
+      <p>A full-stack research workspace combining a Next.js interface, FastAPI services, PostgreSQL/pgvector, document processing, grounded RAG, embeddings, and knowledge-graph workflows.</p>
+      <a href="https://github.com/mehrabja/research-ai">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View Research AI" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ spice-ts</h3>
+      <p>A TypeScript-native circuit simulator for Node.js and the browser, with a structured API, reproducible validation, and an MCP server interface for AI agents.</p>
+      <a href="https://github.com/mehrabja/spice-ts">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View spice-ts" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌌 Interactive Portfolio</h3>
+      <p>A personal web experience built with Astro, Three.js, and GSAP, exploring WebGL visuals, motion design, and interactive presentation.</p>
+      <a href="https://github.com/mehrabja/website">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View portfolio source" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Systems Security Lab</h3>
+      <p>MemoryLatencyAnalyzer includes low-level x86-64 measurement, cache and timing experiments, an educational Spectre Variant 1 demonstration, and synthetic defensive-control evaluation.</p>
+      <a href="https://github.com/mehrabja/MemoryLatencyAnalyzer">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View systems security lab" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
@@ -158,36 +205,192 @@
 
 ---
 
-## ⬡ Technology Stack
+## ⬡ Languages, Skills & Technology Stack
 
-<p align="center"><strong>Languages · Engineering · Tools</strong></p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js,linux,git,github,vscode,docker,cmake,jupyter&theme=dark&perline=10" alt="Programming languages and engineering tools" />
-  </a>
+  <sub>PROJECT-BACKED TECHNOLOGIES · TOOLS REFERENCED IN MY PUBLIC PROJECTS</sub>
 </p>
 
-<p align="center"><strong>AI · Machine Learning · Data</strong></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,fastapi,anaconda&theme=dark&perline=8" alt="AI and machine learning technologies" />
-  </a>
-</p>
-
-<p align="center"><strong>Web · Creative Technology</strong></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,astro,threejs,tailwind&theme=dark&perline=8" alt="Web and creative technology tools" />
-  </a>
-</p>
+### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Graph%20Neural%20Networks-7C3AED?style=flat-square" alt="Graph Neural Networks" />
-  <img src="https://img.shields.io/badge/Federated%20Learning-7C3AED?style=flat-square" alt="Federated Learning" />
-  <img src="https://img.shields.io/badge/Differential%20Privacy-0891B2?style=flat-square" alt="Differential Privacy" />
-  <img src="https://img.shields.io/badge/Time--Series%20Forecasting-7C3AED?style=flat-square" alt="Time Series Forecasting" />
-  <img src="https://img.shields.io/badge/MLOps-0891B2?style=flat-square" alt="MLOps" />
-  <img src="https://img.shields.io/badge/Performance%20Engineering-7C3AED?style=flat-square" alt="Performance Engineering" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,html,css,bash&theme=dark&perline=7" alt="Python, C++, TypeScript, JavaScript, HTML, CSS, and Bash" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-PostgreSQL%20%26%20Relational%20Queries-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL and PostgreSQL" />
+  <img src="https://img.shields.io/badge/TypeScript-Node.js%20Runtime-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript and Node.js" />
+</p>
+
+### 🧠 Machine Learning & Deep Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,pandas,numpy,jupyter&theme=dark&perline=6" alt="TensorFlow, OpenCV, scikit-learn, Pandas, NumPy, and Jupyter" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-Model%20Pipelines-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting-EC6B23?style=flat-square" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/TensorFlow%20%2F%20Keras-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow and Keras" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=111827" alt="Hugging Face Transformers" />
+  <img src="https://img.shields.io/badge/YOLOv7-Object%20Detection-8B5CF6?style=flat-square" alt="YOLOv7" />
+  <img src="https://img.shields.io/badge/Hazm-Persian%20NLP-0891B2?style=flat-square" alt="Hazm" />
+  <img src="https://img.shields.io/badge/Scikit--Fuzzy-Fuzzy%20Logic-0891B2?style=flat-square" alt="Scikit-Fuzzy" />
+</p>
+
+<p align="center">
+  <sub>Classification · Regression · CNNs · LSTMs · Time-series forecasting · Feature engineering · Cross-validation · Hyperparameter tuning · Model evaluation · Image processing · OCR · Sentiment analysis</sub>
+</p>
+
+### 🤖 LLMs, RAG & Agentic Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM%20Applications-8B5CF6?style=flat-square" alt="LLM applications" />
+  <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=111827" alt="Hugging Face Transformers" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-8B5CF6?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Embeddings-Semantic%20Search-0891B2?style=flat-square" alt="Embeddings and semantic search" />
+  <img src="https://img.shields.io/badge/pgvector-Vector%20Retrieval-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/Knowledge%20Graphs-8B5CF6?style=flat-square" alt="Knowledge graphs" />
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-0891B2?style=flat-square" alt="Model Context Protocol" />
+</p>
+<p align="center">
+  <sub>Document ingestion · Chunking · Embedding pipelines · Context retrieval · Grounded generation · Citation and evidence provenance · MCP server integration · Prompt and context design</sub>
+</p>
+
+### 📊 Data Science, Analytics & Data Processing
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-8B5CF6?style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-0891B2?style=flat-square" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+<p align="center">
+  <sub>Exploratory data analysis · Data cleaning · Missing-value and outlier handling · Feature encoding and scaling · Descriptive statistics · Correlation analysis · Time-series decomposition · ACF/PACF · Visualization · Experimental measurement</sub>
+</p>
+
+### 🧩 Backend Engineering, APIs & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,postgres,astro&theme=dark&perline=6" alt="FastAPI, Next.js, React, Node.js, PostgreSQL, and Astro" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Uvicorn-4051B5?style=flat-square" alt="Uvicorn" />
+  <img src="https://img.shields.io/badge/Pydantic-3776AB?style=flat-square" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Alembic-6B7280?style=flat-square" alt="Alembic" />
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square" alt="pgvector" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square" alt="TanStack Query" />
+</p>
+<p align="center">
+  <sub>REST API design · Typed request/response validation · Authentication and OAuth flows · Role-based access control · Database schema and migrations · Background workers · Durable jobs · File-storage adapters · Full-stack application architecture</sub>
+</p>
+
+### 🚀 DevOps, MLOps & Software Quality
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,githubactions,cmake,vscode&theme=dark&perline=6" alt="Linux, Docker, Git, GitHub Actions, CMake, and VS Code" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=111827" alt="Ruff" />
+  <img src="https://img.shields.io/badge/mypy-3776AB?style=flat-square" alt="mypy" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+</p>
+<p align="center">
+  <sub>Containerization · Compose-based local environments · CI workflows · Automated tests · Type checking · Linting · Build systems · Reproducible experiments · Model deployment foundations</sub>
+</p>
+
+### 🛡️ Cybersecurity, Systems & Performance
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++17" />
+  <img src="https://img.shields.io/badge/Linux%20Internals-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux internals" />
+  <img src="https://img.shields.io/badge/x86--64%20%2F%20CPUID-8B5CF6?style=flat-square" alt="x86-64 and CPUID" />
+  <img src="https://img.shields.io/badge/Cache%20%26%20Memory%20Analysis-0891B2?style=flat-square" alt="Cache and memory analysis" />
+  <img src="https://img.shields.io/badge/Spectre%20V1-Educational%20PoC-7C3AED?style=flat-square" alt="Educational Spectre Variant 1 proof of concept" />
+</p>
+<p align="center">
+  <sub>CPU microarchitecture · Cache hierarchy · Timing measurement · Memory ordering · Lock-free atomics · Shared memory · NUMA experiments · Side-channel measurement · Benchmark design · Defensive control evaluation</sub>
+</p>
+
+<p align="center">
+  <sub>Security lab scope: the Spectre demonstration is educational and local. EDR, DLP, egress, and detection scenarios in the project are synthetic control simulations, not integrations with production security products.</sub>
+</p>
+
+### 🎨 Web & Interactive Experiences
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=astro,threejs,html,css,js,ts&theme=dark&perline=6" alt="Astro, Three.js, HTML, CSS, JavaScript, and TypeScript" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=111827" alt="GSAP" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square" alt="WebGL" />
+  <img src="https://img.shields.io/badge/Interactive%20Visualization-8B5CF6?style=flat-square" alt="Interactive visualization" />
+</p>
+
+---
+
+## 🧭 Expanding Toolkit & Learning Roadmap
+
+<p align="center">
+  <sub>TOOLS AND PRACTICES I AM EXPLORING OR PLAN TO DEEPEN — NOT A CLAIM OF EXPERT-LEVEL PROFICIENCY</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>LLM & Model Operations</strong><br />
+      PyTorch · PEFT / LoRA · QLoRA · vLLM · SGLang · LangGraph · LlamaIndex · RAG evaluation
+    </td>
+    <td width="50%" valign="top">
+      <strong>Data Engineering & BI</strong><br />
+      Apache Spark · Airflow · dbt · DuckDB · Power BI · Tableau · Data quality and orchestration
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Backend & Distributed Systems</strong><br />
+      Redis · Kafka · RabbitMQ · GraphQL · gRPC · Celery · Caching and event-driven architecture
+    </td>
+    <td width="50%" valign="top">
+      <strong>Cloud & Platform Engineering</strong><br />
+      Kubernetes · Helm · Terraform · Ansible · AWS · Azure · GCP · Argo CD
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Observability & MLOps</strong><br />
+      MLflow · Weights & Biases · Kubeflow · Prometheus · Grafana · OpenTelemetry · Evidently
+    </td>
+    <td width="50%" valign="top">
+      <strong>Application & Defensive Security</strong><br />
+      OWASP ASVS · OWASP Top 10 · OWASP LLM Top 10 · NIST CSF 2.0 · Secure SDLC · Threat modeling
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <strong>Security Tooling to Explore</strong><br />
+      Burp Suite · OWASP ZAP · Nmap · Wireshark · Wazuh · Trivy · Semgrep · Software composition analysis (SCA) · Static and dynamic testing (SAST/DAST)
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://owasp.org/Top10/">
+    <img src="https://img.shields.io/badge/OWASP-TOP%2010%20%7C%202025-8B5CF6?style=flat-square" alt="OWASP Top 10 2025" />
+  </a>
+  <a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/">
+    <img src="https://img.shields.io/badge/OWASP-LLM%20TOP%2010-0891B2?style=flat-square" alt="OWASP LLM Top 10" />
+  </a>
+  <a href="https://www.nist.gov/cyberframework">
+    <img src="https://img.shields.io/badge/NIST-CSF%202.0-7C3AED?style=flat-square" alt="NIST Cybersecurity Framework 2.0" />
+  </a>
 </p>
 
 ---
