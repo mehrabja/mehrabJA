@@ -1,0 +1,45 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "conf/github-profile-3d-contrib.json"
+      - ".github/workflows/profile-3d-contrib.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-3d-contributions
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    name: Render animated 3D contributions
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v5
+
+      - name: Generate custom 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: "100"
+          SETTING_JSON: conf/github-profile-3d-contrib.json
+
+      - name: Publish SVG to dedicated output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output-3d-contrib
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
