@@ -21,7 +21,7 @@
   <a href="https://github.com/mehrabja">
     <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/27%2B-PUBLIC%20PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="27 plus public projects" />
+  <img src="https://img.shields.io/badge/34-PUBLIC%20REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="27 plus public projects" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <sub>27+ PUBLIC REPOSITORIES · APPLIED AI · SOFTWARE & SYSTEMS ENGINEERING</sub>
+  <sub>34 PUBLIC REPOSITORIES · APPLIED AI · SOFTWARE & SYSTEMS ENGINEERING</sub>
 </p>
 
 ## ◈ Engineering Domains
