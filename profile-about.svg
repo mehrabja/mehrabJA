@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="Mehrab Jalilian — AI engineer building intelligent systems across machine learning, language models, data and software engineering">
+  <defs>
+    <linearGradient id="ab-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080D19"/><stop offset=".55" stop-color="#11152B"/><stop offset="1" stop-color="#17112D"/>
+    </linearGradient>
+    <linearGradient id="ab-edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0"/><stop offset=".48" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="ab-title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E9D5FF"/><stop offset=".55" stop-color="#C4B5FD"/><stop offset="1" stop-color="#67E8F9"/>
+    </linearGradient>
+    <radialGradient id="ab-core">
+      <stop offset="0" stop-color="#F5F3FF"/><stop offset=".18" stop-color="#C4B5FD"/><stop offset=".52" stop-color="#8B5CF6"/><stop offset="1" stop-color="#312E81" stop-opacity=".08"/>
+    </radialGradient>
+    <radialGradient id="ab-halo">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity=".38"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ab-cube" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C4B5FD" stop-opacity=".9"/><stop offset="1" stop-color="#7C3AED" stop-opacity=".35"/>
+    </linearGradient>
+    <pattern id="ab-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#A5B4FC" stroke-opacity=".055"/>
+    </pattern>
+    <filter id="ab-blur"><feGaussianBlur stdDeviation="24"/></filter>
+    <filter id="ab-glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#ab-bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#ab-grid)"/>
+  <ellipse cx="1000" cy="170" rx="260" ry="180" fill="url(#ab-halo)" filter="url(#ab-blur)">
+    <animate attributeName="cx" values="990;1060;990;930;990" dur="18s" repeatCount="indefinite"/>
+  </ellipse>
+  <path d="M44 315H1156" stroke="url(#ab-edge)" stroke-width="1.5" opacity=".8"/>
+  <path d="M44 44H470" stroke="url(#ab-edge)" stroke-width="1.2" opacity=".55"/>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="76" y="76" fill="#94A3B8" font-size="12" font-weight="700" letter-spacing="4">ABOUT THE ENGINEER  /  01</text>
+    <text x="72" y="132" fill="url(#ab-title)" font-size="43" font-weight="850" letter-spacing="-1.5">MEHRAB JALILIAN</text>
+    <text x="77" y="164" fill="#E2E8F0" font-size="15" font-weight="650" letter-spacing="2.5">AI ENGINEER  <tspan fill="#8B5CF6">✦</tspan>  COMPUTER ENGINEERING STUDENT</text>
+    <text x="77" y="218" fill="#F8FAFC" font-size="21" font-weight="650">I turn research ideas into</text>
+    <text x="77" y="247" fill="#C4B5FD" font-size="21" font-weight="750">useful, engineered systems.</text>
+    <text x="78" y="286" fill="#94A3B8" font-size="13" letter-spacing=".45">ML / DEEP LEARNING  ·  LLM &amp; RAG  ·  DATA &amp; BACKEND</text>
+    <text x="78" y="306" fill="#64748B" font-size="12" letter-spacing=".45">COMPUTER VISION  ·  NLP  ·  SYSTEMS &amp; SECURITY EXPERIMENTS</text>
+  </g>
+
+  <g transform="translate(895 177)">
+    <circle r="132" fill="none" stroke="#8B5CF6" stroke-opacity=".14" stroke-width="1"/>
+    <circle r="112" fill="none" stroke="#67E8F9" stroke-opacity=".16" stroke-width="1" stroke-dasharray="2 8"/>
+    <g fill="none" stroke-width="1.6">
+      <ellipse rx="123" ry="48" stroke="#A78BFA" stroke-opacity=".75" transform="rotate(-26)">
+        <animateTransform attributeName="transform" type="rotate" from="-26 0 0" to="334 0 0" dur="36s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse rx="122" ry="52" stroke="#67E8F9" stroke-opacity=".58" transform="rotate(58)">
+        <animateTransform attributeName="transform" type="rotate" from="58 0 0" to="-302 0 0" dur="42s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse rx="85" ry="128" stroke="#C4B5FD" stroke-opacity=".38" transform="rotate(72)">
+        <animateTransform attributeName="transform" type="rotate" from="72 0 0" to="432 0 0" dur="48s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+    <circle r="74" fill="url(#ab-halo)" filter="url(#ab-blur)"/>
+    <circle r="53" fill="url(#ab-core)" filter="url(#ab-glow)"/>
+    <circle r="40" fill="none" stroke="#E9D5FF" stroke-opacity=".38"/>
+    <circle r="28" fill="none" stroke="#67E8F9" stroke-opacity=".45" stroke-dasharray="3 5">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="16s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M-13 1L-2 -11L8 -2L-2 9Z" fill="#F5F3FF" opacity=".9"/>
+    <circle cx="-105" cy="-47" r="7" fill="#67E8F9" filter="url(#ab-glow)">
+      <animate attributeName="r" values="5;8;5" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="105" cy="48" r="6" fill="#C4B5FD" filter="url(#ab-glow)">
+      <animate attributeName="r" values="4;7;4" dur="2.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="33" cy="-119" r="4" fill="#67E8F9"/>
+  </g>
+
+  <g transform="translate(1075 64)" opacity=".8" stroke="url(#ab-cube)" stroke-width="1.5" fill="none">
+    <path d="M0 16L22 3L44 16L22 29Z M0 16V42L22 55V29 M44 16V42L22 55"/>
+    <path d="M11 10L33 23 M22 29V55" opacity=".45"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="5s" repeatCount="indefinite" additive="sum"/>
+  </g>
+  <g transform="translate(1115 270)" fill="none" stroke="#67E8F9" stroke-opacity=".65">
+    <path d="M0 0H28M14 -14V14M4 -10L24 10M24 -10L4 10"/>
+    <circle r="4" fill="#67E8F9" stroke="none"><animate attributeName="r" values="2;5;2" dur="3s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#C4B5FD">
+    <circle cx="740" cy="75" r="2"><animate attributeName="opacity" values=".15;1;.15" dur="3.7s" repeatCount="indefinite"/></circle>
+    <circle cx="1128" cy="112" r="2"><animate attributeName="opacity" values="1;.2;1" dur="4.1s" repeatCount="indefinite"/></circle>
+    <circle cx="775" cy="280" r="1.8"><animate attributeName="opacity" values=".2;1;.2" dur="2.9s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="895" y="337" fill="#64748B" font-family="Segoe UI,Arial,sans-serif" font-size="10" text-anchor="middle" letter-spacing="3">RESEARCH  ·  ENGINEER  ·  BUILD  ·  IMPROVE</text>
+</svg>
