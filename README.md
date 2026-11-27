@@ -32,22 +32,27 @@
 
 ## ✦ About Me
 
+<table>
+  <tr>
+    <td width="190" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/mehrabja/mehrabja/main/profile.jpg" width="150" alt="Mehrab Jalilian" />
+    </td>
+    <td valign="middle">
+      <h3>Mehrab Jalilian</h3>
+      <p><strong>AI ENGINEER · COMPUTER ENGINEERING STUDENT</strong></p>
+      <p>I build intelligent software by connecting research, machine learning, and practical engineering. My work spans deep learning, computer vision, Persian NLP, LLM/RAG workflows, data systems, backend development, and systems-level experiments.</p>
+      <p>I work across the full lifecycle: data preparation, model development and evaluation, API and database design, containerization, automated testing, and deployment workflows.</p>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mehrabja/mehrabja/main/profile.jpg" width="132" alt="Mehrab Jalilian" />
+  <img src="https://raw.githubusercontent.com/mehrabja/mehrabJA/main/profile-about.svg" width="100%" alt="Subtle animated isometric engineering workflow from data through models and systems to delivery" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mehrabja/mehrabJA/main/profile-about.svg" width="100%" alt="Animated 2D and isometric 3D-inspired introduction to Mehrab Jalilian and his engineering focus" />
-</p>
-
-<p align="center">
-  <strong>Research → Engineer → Evaluate → Deploy</strong><br />
   <sub>27+ PUBLIC REPOSITORIES · APPLIED AI · SOFTWARE & SYSTEMS ENGINEERING</sub>
 </p>
-
-I am an AI engineer and computer engineering student focused on translating research ideas into useful software. My work spans machine learning and deep learning, computer vision, Persian NLP, LLM/RAG workflows, data systems, backend engineering, and performance/security experiments.
-
-I approach projects across the full engineering lifecycle: from data preparation and model evaluation to API design, databases, containerization, automated testing, and deployment workflows.
 
 ## ◈ Engineering Domains
 
@@ -348,14 +353,14 @@ I approach projects across the full engineering lifecycle: from data preparation
 
 ---
 
-## 🧭 Expanding Toolkit & Learning Roadmap
+## ✦ Learning Roadmap
 
 <p align="center">
-  <sub>AN EXPLORATION PLAN — TOOLS AND PRACTICES I AM STUDYING OR PLAN TO DEEPEN, NOT A CLAIM OF EXPERT-LEVEL PROFICIENCY</sub>
+  <sub>TOOLS AND PRACTICES I AM EXPLORING OR PLAN TO DEEPEN — NOT A CLAIM OF EXPERT-LEVEL PROFICIENCY</sub>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mehrabja/mehrabJA/main/profile-roadmap.svg" width="100%" alt="Animated four-stage isometric learning roadmap for model intelligence, data engineering, production MLOps, cloud, and secure engineering" />
+  <img src="https://raw.githubusercontent.com/mehrabja/mehrabJA/main/profile-roadmap.svg" width="100%" alt="Four connected isometric stages representing the learning roadmap" />
 </p>
 
 <table>
