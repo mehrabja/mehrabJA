@@ -191,6 +191,7 @@
     <td width="33%" valign="top">
       <h3>🤖 ContextForge</h3>
       <p>Source-grounded RAG API with document ingestion, ranked retrieval, citations, optional LLM generation, and offline evaluation</p>
+      <a href="https://github.com/mehrabja/mehrab/actions/workflows/contextforge-ci.yml"><img src="https://github.com/mehrabja/mehrab/actions/workflows/contextforge-ci.yml/badge.svg?branch=main" alt="ContextForge CI" /></a>
       <a href="https://github.com/mehrabja/mehrab/tree/main/contextforge">
         <img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore ContextForge" />
       </a>
@@ -198,6 +199,7 @@
     <td width="33%" valign="top">
       <h3>🛡️ RepoSentinel</h3>
       <p>Local defensive repository scanner for secret patterns, unsafe code/configuration, severity gates, JSON, and SARIF reports</p>
+      <a href="https://github.com/mehrabja/mehrab/actions/workflows/reposentinel-ci.yml"><img src="https://github.com/mehrabja/mehrab/actions/workflows/reposentinel-ci.yml/badge.svg?branch=main" alt="RepoSentinel CI" /></a>
       <a href="https://github.com/mehrabja/mehrab/tree/main/reposentinel">
         <img src="https://img.shields.io/badge/EXPLORE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore RepoSentinel" />
       </a>
@@ -205,6 +207,7 @@
     <td width="33%" valign="top">
       <h3>🚀 ModelOps Launchpad</h3>
       <p>Reproducible model training, FastAPI inference, health/readiness, Prometheus histogram metrics, Docker, and CI</p>
+      <a href="https://github.com/mehrabja/mehrab/actions/workflows/modelops-ci.yml"><img src="https://github.com/mehrabja/mehrab/actions/workflows/modelops-ci.yml/badge.svg?branch=main" alt="ModelOps Launchpad CI" /></a>
       <a href="https://github.com/mehrabja/mehrab/tree/main/modelops-launchpad">
         <img src="https://img.shields.io/badge/EXPLORE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore ModelOps" />
       </a>
