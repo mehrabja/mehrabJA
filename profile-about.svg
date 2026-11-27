@@ -1,91 +1,90 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="Mehrab Jalilian — AI engineer building intelligent systems across machine learning, language models, data and software engineering">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 184" role="img" aria-label="Animated engineering workflow from data through models and software systems to deployment">
   <defs>
-    <linearGradient id="ab-bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#080D19"/><stop offset=".55" stop-color="#11152B"/><stop offset="1" stop-color="#17112D"/>
+    <linearGradient id="a-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset=".52" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#67E8F9"/>
     </linearGradient>
-    <linearGradient id="ab-edge" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0"/><stop offset=".48" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    <linearGradient id="a-top" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#20263A"/>
+      <stop offset="1" stop-color="#141B2B"/>
     </linearGradient>
-    <linearGradient id="ab-title" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#E9D5FF"/><stop offset=".55" stop-color="#C4B5FD"/><stop offset="1" stop-color="#67E8F9"/>
+    <linearGradient id="a-side" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#25203E"/>
+      <stop offset="1" stop-color="#151A2D"/>
     </linearGradient>
-    <radialGradient id="ab-core">
-      <stop offset="0" stop-color="#F5F3FF"/><stop offset=".18" stop-color="#C4B5FD"/><stop offset=".52" stop-color="#8B5CF6"/><stop offset="1" stop-color="#312E81" stop-opacity=".08"/>
-    </radialGradient>
-    <radialGradient id="ab-halo">
-      <stop offset="0" stop-color="#8B5CF6" stop-opacity=".38"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="ab-cube" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#C4B5FD" stop-opacity=".9"/><stop offset="1" stop-color="#7C3AED" stop-opacity=".35"/>
-    </linearGradient>
-    <pattern id="ab-grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#A5B4FC" stroke-opacity=".055"/>
-    </pattern>
-    <filter id="ab-blur"><feGaussianBlur stdDeviation="24"/></filter>
-    <filter id="ab-glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="a-soft"><feGaussianBlur stdDeviation="8"/></filter>
   </defs>
+  <rect x=".5" y=".5" width="1199" height="183" rx="18" fill="#0D1117" stroke="#30363D"/>
+  <path d="M32 92H1168" stroke="#30363D" stroke-width="1.2"/>
+  <path d="M32 92H1168" stroke="url(#a-line)" stroke-width="2" stroke-dasharray="3 12" opacity=".65">
+    <animate attributeName="stroke-dashoffset" values="0;-90" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <text x="42" y="34" fill="#8B949E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2.8">HOW I APPROACH ENGINEERING</text>
 
-  <rect width="1200" height="360" rx="28" fill="url(#ab-bg)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#ab-grid)"/>
-  <ellipse cx="1000" cy="170" rx="260" ry="180" fill="url(#ab-halo)" filter="url(#ab-blur)">
-    <animate attributeName="cx" values="990;1060;990;930;990" dur="18s" repeatCount="indefinite"/>
-  </ellipse>
-  <path d="M44 315H1156" stroke="url(#ab-edge)" stroke-width="1.5" opacity=".8"/>
-  <path d="M44 44H470" stroke="url(#ab-edge)" stroke-width="1.2" opacity=".55"/>
-
-  <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    <text x="76" y="76" fill="#94A3B8" font-size="12" font-weight="700" letter-spacing="4">ABOUT THE ENGINEER  /  01</text>
-    <text x="72" y="132" fill="url(#ab-title)" font-size="43" font-weight="850" letter-spacing="-1.5">MEHRAB JALILIAN</text>
-    <text x="77" y="164" fill="#E2E8F0" font-size="15" font-weight="650" letter-spacing="2.5">AI ENGINEER  <tspan fill="#8B5CF6">✦</tspan>  COMPUTER ENGINEERING STUDENT</text>
-    <text x="77" y="218" fill="#F8FAFC" font-size="21" font-weight="650">I turn research ideas into</text>
-    <text x="77" y="247" fill="#C4B5FD" font-size="21" font-weight="750">useful, engineered systems.</text>
-    <text x="78" y="286" fill="#94A3B8" font-size="13" letter-spacing=".45">ML / DEEP LEARNING  ·  LLM &amp; RAG  ·  DATA &amp; BACKEND</text>
-    <text x="78" y="306" fill="#64748B" font-size="12" letter-spacing=".45">COMPUTER VISION  ·  NLP  ·  SYSTEMS &amp; SECURITY EXPERIMENTS</text>
-  </g>
-
-  <g transform="translate(895 177)">
-    <circle r="132" fill="none" stroke="#8B5CF6" stroke-opacity=".14" stroke-width="1"/>
-    <circle r="112" fill="none" stroke="#67E8F9" stroke-opacity=".16" stroke-width="1" stroke-dasharray="2 8"/>
-    <g fill="none" stroke-width="1.6">
-      <ellipse rx="123" ry="48" stroke="#A78BFA" stroke-opacity=".75" transform="rotate(-26)">
-        <animateTransform attributeName="transform" type="rotate" from="-26 0 0" to="334 0 0" dur="36s" repeatCount="indefinite"/>
-      </ellipse>
-      <ellipse rx="122" ry="52" stroke="#67E8F9" stroke-opacity=".58" transform="rotate(58)">
-        <animateTransform attributeName="transform" type="rotate" from="58 0 0" to="-302 0 0" dur="42s" repeatCount="indefinite"/>
-      </ellipse>
-      <ellipse rx="85" ry="128" stroke="#C4B5FD" stroke-opacity=".38" transform="rotate(72)">
-        <animateTransform attributeName="transform" type="rotate" from="72 0 0" to="432 0 0" dur="48s" repeatCount="indefinite"/>
-      </ellipse>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(165 0)">
+      <ellipse cx="0" cy="89" rx="72" ry="30" fill="#8B5CF6" opacity=".08" filter="url(#a-soft)"/>
+      <path d="M-58 78L0 56L58 78L0 101Z" fill="#101827" stroke="#8B5CF6" stroke-opacity=".65"/>
+      <path d="M-58 78V91L0 114V101Z" fill="#1C1A32" stroke="#8B5CF6" stroke-opacity=".35"/>
+      <path d="M0 101V114L58 91V78Z" fill="#151C2A" stroke="#8B5CF6" stroke-opacity=".35"/>
+      <path d="M-34 77L0 64L34 77L0 91Z" fill="url(#a-top)" stroke="#C4B5FD" stroke-opacity=".75"/>
+      <g transform="translate(0 77)" stroke="#C4B5FD" stroke-width="2" fill="none">
+        <path d="M-15 0H15M0 -7V7M-9 -6L-9 6" stroke-linecap="round"/>
+        <circle r="22" stroke="#A78BFA" stroke-opacity=".35" stroke-dasharray="2 6"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/></circle>
+      </g>
+      <text x="0" y="145" fill="#E6EDF3" font-size="12" font-weight="700" letter-spacing="1.5">DATA</text>
+      <text x="0" y="162" fill="#8B949E" font-size="10">Prepare · Understand</text>
     </g>
-    <circle r="74" fill="url(#ab-halo)" filter="url(#ab-blur)"/>
-    <circle r="53" fill="url(#ab-core)" filter="url(#ab-glow)"/>
-    <circle r="40" fill="none" stroke="#E9D5FF" stroke-opacity=".38"/>
-    <circle r="28" fill="none" stroke="#67E8F9" stroke-opacity=".45" stroke-dasharray="3 5">
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="16s" repeatCount="indefinite"/>
-    </circle>
-    <path d="M-13 1L-2 -11L8 -2L-2 9Z" fill="#F5F3FF" opacity=".9"/>
-    <circle cx="-105" cy="-47" r="7" fill="#67E8F9" filter="url(#ab-glow)">
-      <animate attributeName="r" values="5;8;5" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="105" cy="48" r="6" fill="#C4B5FD" filter="url(#ab-glow)">
-      <animate attributeName="r" values="4;7;4" dur="2.7s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="33" cy="-119" r="4" fill="#67E8F9"/>
+
+    <g transform="translate(455 0)">
+      <ellipse cx="0" cy="89" rx="72" ry="30" fill="#8B5CF6" opacity=".07" filter="url(#a-soft)"/>
+      <path d="M-58 78L0 56L58 78L0 101Z" fill="#101827" stroke="#A78BFA" stroke-opacity=".65"/>
+      <path d="M-58 78V91L0 114V101Z" fill="#1C1A32" stroke="#A78BFA" stroke-opacity=".35"/>
+      <path d="M0 101V114L58 91V78Z" fill="#151C2A" stroke="#A78BFA" stroke-opacity=".35"/>
+      <path d="M-34 77L0 64L34 77L0 91Z" fill="url(#a-top)" stroke="#C4B5FD" stroke-opacity=".75"/>
+      <g transform="translate(0 77)" stroke="#C4B5FD" stroke-width="2" fill="none">
+        <circle r="5" fill="#A78BFA" fill-opacity=".3"/>
+        <circle cx="-14" cy="-7" r="4"/><circle cx="14" cy="-7" r="4"/><circle cx="-14" cy="9" r="4"/><circle cx="14" cy="9" r="4"/>
+        <path d="M-10 -5L-4 -2M10 -5L4 -2M-10 7L-4 3M10 7L4 3"/>
+        <circle r="22" stroke="#A78BFA" stroke-opacity=".3" stroke-dasharray="2 6"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="28s" repeatCount="indefinite"/></circle>
+      </g>
+      <text x="0" y="145" fill="#E6EDF3" font-size="12" font-weight="700" letter-spacing="1.5">MODELS</text>
+      <text x="0" y="162" fill="#8B949E" font-size="10">Train · Evaluate</text>
+    </g>
+
+    <g transform="translate(745 0)">
+      <ellipse cx="0" cy="89" rx="72" ry="30" fill="#0891B2" opacity=".07" filter="url(#a-soft)"/>
+      <path d="M-58 78L0 56L58 78L0 101Z" fill="#101827" stroke="#67E8F9" stroke-opacity=".6"/>
+      <path d="M-58 78V91L0 114V101Z" fill="#122431" stroke="#67E8F9" stroke-opacity=".3"/>
+      <path d="M0 101V114L58 91V78Z" fill="#151F2B" stroke="#67E8F9" stroke-opacity=".3"/>
+      <path d="M-34 77L0 64L34 77L0 91Z" fill="url(#a-top)" stroke="#A5F3FC" stroke-opacity=".7"/>
+      <g transform="translate(0 77)" stroke="#A5F3FC" stroke-width="2" fill="none" stroke-linejoin="round">
+        <rect x="-14" y="-10" width="28" height="20" rx="3"/>
+        <path d="M-7 -3H7M-7 3H4" stroke-linecap="round"/>
+        <circle r="22" stroke="#67E8F9" stroke-opacity=".28" stroke-dasharray="2 6"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/></circle>
+      </g>
+      <text x="0" y="145" fill="#E6EDF3" font-size="12" font-weight="700" letter-spacing="1.5">SYSTEMS</text>
+      <text x="0" y="162" fill="#8B949E" font-size="10">Design · Integrate</text>
+    </g>
+
+    <g transform="translate(1035 0)">
+      <ellipse cx="0" cy="89" rx="72" ry="30" fill="#0891B2" opacity=".07" filter="url(#a-soft)"/>
+      <path d="M-58 78L0 56L58 78L0 101Z" fill="#101827" stroke="#67E8F9" stroke-opacity=".6"/>
+      <path d="M-58 78V91L0 114V101Z" fill="#122431" stroke="#67E8F9" stroke-opacity=".3"/>
+      <path d="M0 101V114L58 91V78Z" fill="#151F2B" stroke="#67E8F9" stroke-opacity=".3"/>
+      <path d="M-34 77L0 64L34 77L0 91Z" fill="url(#a-top)" stroke="#A5F3FC" stroke-opacity=".7"/>
+      <g transform="translate(0 77)" stroke="#A5F3FC" stroke-width="2" fill="none" stroke-linejoin="round">
+        <path d="M-13 2L-3 11L15 -10" stroke-linecap="round"/>
+        <path d="M0 -19L17 -10V5C17 15 7 21 0 24C-7 21 -17 15 -17 5V-10Z" opacity=".7"/>
+        <circle r="22" stroke="#67E8F9" stroke-opacity=".28" stroke-dasharray="2 6"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="32s" repeatCount="indefinite"/></circle>
+      </g>
+      <text x="0" y="145" fill="#E6EDF3" font-size="12" font-weight="700" letter-spacing="1.5">DELIVER</text>
+      <text x="0" y="162" fill="#8B949E" font-size="10">Deploy · Improve</text>
+    </g>
   </g>
 
-  <g transform="translate(1075 64)" opacity=".8" stroke="url(#ab-cube)" stroke-width="1.5" fill="none">
-    <path d="M0 16L22 3L44 16L22 29Z M0 16V42L22 55V29 M44 16V42L22 55"/>
-    <path d="M11 10L33 23 M22 29V55" opacity=".45"/>
-    <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="5s" repeatCount="indefinite" additive="sum"/>
-  </g>
-  <g transform="translate(1115 270)" fill="none" stroke="#67E8F9" stroke-opacity=".65">
-    <path d="M0 0H28M14 -14V14M4 -10L24 10M24 -10L4 10"/>
-    <circle r="4" fill="#67E8F9" stroke="none"><animate attributeName="r" values="2;5;2" dur="3s" repeatCount="indefinite"/></circle>
-  </g>
-  <g fill="#C4B5FD">
-    <circle cx="740" cy="75" r="2"><animate attributeName="opacity" values=".15;1;.15" dur="3.7s" repeatCount="indefinite"/></circle>
-    <circle cx="1128" cy="112" r="2"><animate attributeName="opacity" values="1;.2;1" dur="4.1s" repeatCount="indefinite"/></circle>
-    <circle cx="775" cy="280" r="1.8"><animate attributeName="opacity" values=".2;1;.2" dur="2.9s" repeatCount="indefinite"/></circle>
-  </g>
-  <text x="895" y="337" fill="#64748B" font-family="Segoe UI,Arial,sans-serif" font-size="10" text-anchor="middle" letter-spacing="3">RESEARCH  ·  ENGINEER  ·  BUILD  ·  IMPROVE</text>
+  <circle r="4" fill="#67E8F9">
+    <animateMotion dur="12s" repeatCount="indefinite" path="M165 92H1035"/>
+  </circle>
 </svg>
