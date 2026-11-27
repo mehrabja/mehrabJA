@@ -217,6 +217,22 @@
 
 ---
 
+## ✦ 3D Contribution Galaxy
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/mehrabja/mehrabJA/output-3d-contrib/contributions.svg"
+    width="100%"
+    alt="Animated 3D GitHub contribution graph in violet and cyan"
+  />
+</p>
+
+<p align="center">
+  <sub>ANIMATED 3D CONTRIBUTIONS · VIOLET × CYAN · AUTOMATIC DAILY REFRESH</sub>
+</p>
+
+---
+
 ## 🐍 Contribution Journey
 
 <p align="center">
