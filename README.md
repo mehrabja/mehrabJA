@@ -205,6 +205,44 @@
 
 ---
 
+## ✦ Engineering Flagships
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehrabja/mehrabJA/main/project-flagships.svg" width="100%" alt="Animated overview of ContextForge, RepoSentinel, and ModelOps Launchpad" />
+</p>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🤖 ContextForge</h3>
+      <p>Source-grounded RAG API with document ingestion, ranked retrieval, citations, optional LLM generation, and offline evaluation</p>
+      <a href="https://github.com/mehrabja/mehrab/tree/main/contextforge">
+        <img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore ContextForge" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛡️ RepoSentinel</h3>
+      <p>Local defensive repository scanner for secret patterns, unsafe code/configuration, severity gates, JSON, and SARIF reports</p>
+      <a href="https://github.com/mehrabja/mehrab/tree/main/reposentinel">
+        <img src="https://img.shields.io/badge/EXPLORE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore RepoSentinel" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🚀 ModelOps Launchpad</h3>
+      <p>Reproducible model training, FastAPI inference, health/readiness, Prometheus histogram metrics, Docker, and CI</p>
+      <a href="https://github.com/mehrabja/mehrab/tree/main/modelops-launchpad">
+        <img src="https://img.shields.io/badge/EXPLORE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore ModelOps" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>THREE HANDS-ON PROJECTS · ONE ENGINEERING WORKSPACE</sub>
+</p>
+
+---
+
 ## ⬡ Languages, Skills & Technology Stack
 
 <p align="center">
