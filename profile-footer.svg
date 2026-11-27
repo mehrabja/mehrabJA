@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-label="Thanks for visiting — keep building">
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101326"/>
+      <stop offset="1" stop-color="#17112D"/>
+    </linearGradient>
+    <linearGradient id="footerWave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset=".52" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="150" rx="24" fill="url(#footerBg)"/>
+  <path d="M0 70 C180 10 300 130 500 70 S850 10 1200 68 L1200 150 L0 150Z" fill="#8B5CF6" fill-opacity=".08">
+    <animate attributeName="d" values="M0 70 C180 10 300 130 500 70 S850 10 1200 68 L1200 150 L0 150Z;M0 82 C180 120 300 15 500 82 S850 120 1200 75 L1200 150 L0 150Z;M0 70 C180 10 300 130 500 70 S850 10 1200 68 L1200 150 L0 150Z" dur="12s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 92 C180 32 330 145 520 90 S900 30 1200 90" stroke="url(#footerWave)" stroke-width="2" fill="none" stroke-opacity=".8" stroke-dasharray="9 12">
+    <animate attributeName="stroke-dashoffset" values="0;-84" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <g fill="#C4B5FD">
+    <circle cx="90" cy="35" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="1085" cy="42" r="2.5"><animate attributeName="opacity" values="1;.25;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="118" r="1.8"><animate attributeName="opacity" values=".2;1;.2" dur="2.6s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="600" y="55" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">THANKS FOR STOPPING BY</text>
+  <text x="600" y="80" text-anchor="middle" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="2">KEEP LEARNING  ·  KEEP BUILDING  ·  STAY CURIOUS</text>
+</svg>
