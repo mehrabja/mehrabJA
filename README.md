@@ -192,7 +192,7 @@
       <h3>🤖 ContextForge</h3>
       <p>Source-grounded RAG API with document ingestion, ranked retrieval, citations, optional LLM generation, and offline evaluation</p>
       <a href="https://github.com/mehrabja/mehrab/actions/workflows/contextforge-ci.yml"><img src="https://github.com/mehrabja/mehrab/actions/workflows/contextforge-ci.yml/badge.svg?branch=main" alt="ContextForge CI" /></a>
-      <a href="https://github.com/mehrabja/mehrab/actions/runs/45963898099"><img src="https://img.shields.io/badge/CI%20coverage-85%25%20%7C%202026--11--27-7C3AED?style=flat-square&logo=pytest&logoColor=white" alt="ContextForge coverage 85 percent, measured 2026-11-27" /></a>
+      <a href="https://github.com/mehrabja/mehrab/actions/runs/45964099154"><img src="https://img.shields.io/badge/CI%20coverage-85%25%20%7C%202026--11--27-7C3AED?style=flat-square&logo=pytest&logoColor=white" alt="ContextForge coverage 85 percent, measured 2026-11-27" /></a>
       <a href="https://github.com/mehrabja/mehrab/tree/main/contextforge">
         <img src="https://img.shields.io/badge/EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore ContextForge" />
       </a>
