@@ -1,104 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-label="Four-stage learning roadmap: model intelligence, data and distributed systems, production MLOps and cloud, and secure engineering">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" role="img" aria-label="Four connected learning stages shown as restrained isometric platforms">
   <defs>
-    <linearGradient id="rm-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080D19"/><stop offset=".55" stop-color="#11152B"/><stop offset="1" stop-color="#17112D"/></linearGradient>
-    <linearGradient id="rm-path" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset=".5" stop-color="#6366F1"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
-    <linearGradient id="rm-top" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#29264A"/><stop offset="1" stop-color="#151A31"/></linearGradient>
-    <linearGradient id="rm-violet" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DDD6FE"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
-    <linearGradient id="rm-cyan" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#CFFAFE"/><stop offset="1" stop-color="#0891B2"/></linearGradient>
-    <radialGradient id="rm-glow"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".32"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
-    <pattern id="rm-grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#A5B4FC" stroke-opacity=".05"/></pattern>
-    <filter id="rm-blur"><feGaussianBlur stdDeviation="24"/></filter>
-    <filter id="rm-glowfx"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="r-line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset=".55" stop-color="#A78BFA"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+    <linearGradient id="r-top" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1D2738"/><stop offset="1" stop-color="#111A28"/></linearGradient>
   </defs>
-  <rect width="1200" height="400" rx="28" fill="url(#rm-bg)"/>
-  <rect width="1200" height="400" rx="28" fill="url(#rm-grid)"/>
-  <ellipse cx="610" cy="195" rx="500" ry="175" fill="url(#rm-glow)" filter="url(#rm-blur)"><animate attributeName="cx" values="610;710;610;510;610" dur="22s" repeatCount="indefinite"/></ellipse>
-  <text x="600" y="46" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="4" text-anchor="middle">THE LEARNING ROADMAP  /  03</text>
-  <text x="600" y="80" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="850" letter-spacing="1.2" text-anchor="middle">EXPLORE  →  INTEGRATE  →  DEPLOY  →  SECURE</text>
-
-  <path d="M125 222C245 150 350 150 470 222S700 294 825 222S1035 150 1080 222" fill="none" stroke="url(#rm-path)" stroke-width="3" stroke-opacity=".7" stroke-dasharray="8 12">
-    <animate attributeName="stroke-dashoffset" values="0;-100" dur="8s" repeatCount="indefinite"/>
+  <rect x=".5" y=".5" width="1199" height="209" rx="18" fill="#0D1117" stroke="#30363D"/>
+  <text x="38" y="32" fill="#8B949E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2.8">A CONTINUOUS LEARNING PATH</text>
+  <path d="M150 103H1050" stroke="#30363D" stroke-width="2"/>
+  <path d="M150 103H1050" stroke="url(#r-line)" stroke-width="2" stroke-dasharray="3 10" opacity=".75">
+    <animate attributeName="stroke-dashoffset" values="0;-90" dur="8s" repeatCount="indefinite"/>
   </path>
-  <circle r="5" fill="#67E8F9" filter="url(#rm-glowfx)">
-    <animateMotion dur="13s" repeatCount="indefinite" path="M125 222C245 150 350 150 470 222S700 294 825 222S1035 150 1080 222"/>
-  </circle>
-  <circle r="3" fill="#C4B5FD">
-    <animateMotion dur="13s" begin="-6.5s" repeatCount="indefinite" path="M125 222C245 150 350 150 470 222S700 294 825 222S1035 150 1080 222"/>
-  </circle>
+  <circle r="4" fill="#67E8F9"><animateMotion dur="10s" repeatCount="indefinite" path="M150 103H1050"/></circle>
 
-  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
     <g transform="translate(150 0)">
-      <path d="M-112 232L0 192L112 232L0 272Z" fill="#0A1021" stroke="#A78BFA" stroke-opacity=".38"/>
-      <path d="M-112 232V250L0 290V272Z" fill="#211B3E" stroke="#A78BFA" stroke-opacity=".28"/>
-      <path d="M0 272V290L112 250V232Z" fill="#151A31" stroke="#A78BFA" stroke-opacity=".28"/>
-      <path d="M-79 229L0 202L79 229L0 257Z" fill="url(#rm-top)" stroke="#C4B5FD" stroke-opacity=".75"/>
-      <circle cx="0" cy="224" r="31" fill="#8B5CF6" fill-opacity=".12" stroke="#C4B5FD" stroke-opacity=".75"/>
-      <g transform="translate(0 224)" fill="none" stroke="url(#rm-violet)" stroke-width="2.3">
-        <circle r="17" stroke-dasharray="3 5"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/></circle>
-        <path d="M-8 0L-2 -7L6 -3L9 7L-1 10Z" fill="#A78BFA" fill-opacity=".3"/>
-      </g>
-      <text x="0" y="128" text-anchor="middle" fill="#DDD6FE" font-size="11" font-weight="700" letter-spacing="2">01 / MODEL INTELLIGENCE</text>
-      <text x="0" y="151" text-anchor="middle" fill="#F8FAFC" font-size="15" font-weight="800">Train &amp; Evaluate</text>
-      <text x="0" y="170" text-anchor="middle" fill="#94A3B8" font-size="10">PyTorch · PEFT · vLLM · Agents</text>
-      <text x="0" y="319" text-anchor="middle" fill="#64748B" font-size="10" letter-spacing="1.2">MODELS  /  RETRIEVAL</text>
+      <path d="M-88 108L0 77L88 108L0 139Z" fill="#101827" stroke="#8B5CF6" stroke-opacity=".65"/>
+      <path d="M-88 108V123L0 154V139Z" fill="#1C1A32" stroke="#8B5CF6" stroke-opacity=".35"/>
+      <path d="M0 139V154L88 123V108Z" fill="#151C2A" stroke="#8B5CF6" stroke-opacity=".35"/>
+      <path d="M-52 106L0 87L52 106L0 125Z" fill="url(#r-top)" stroke="#C4B5FD" stroke-opacity=".75"/>
+      <circle cx="0" cy="105" r="28" fill="#0D1117" stroke="#A78BFA" stroke-opacity=".75"/>
+      <g transform="translate(0 105)" stroke="#C4B5FD" stroke-width="2.2" fill="none"><path d="M-12 3L-4 -7L5 -3L12 5L0 11Z"/><circle r="20" stroke-opacity=".3" stroke-dasharray="2 5"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/></circle></g>
+      <text x="0" y="184" fill="#E6EDF3" font-size="12" font-weight="750" letter-spacing="2">01</text>
     </g>
-
     <g transform="translate(450 0)">
-      <path d="M-112 232L0 192L112 232L0 272Z" fill="#0A1021" stroke="#67E8F9" stroke-opacity=".38"/>
-      <path d="M-112 232V250L0 290V272Z" fill="#102A36" stroke="#67E8F9" stroke-opacity=".28"/>
-      <path d="M0 272V290L112 250V232Z" fill="#151A31" stroke="#67E8F9" stroke-opacity=".28"/>
-      <path d="M-79 229L0 202L79 229L0 257Z" fill="url(#rm-top)" stroke="#67E8F9" stroke-opacity=".75"/>
-      <circle cx="0" cy="224" r="31" fill="#22D3EE" fill-opacity=".10" stroke="#67E8F9" stroke-opacity=".75"/>
-      <g transform="translate(0 224)" fill="none" stroke="url(#rm-cyan)" stroke-width="2.3">
-        <path d="M-19 -9H19V9H-19Z M-8 -18V18M8 -18V18M-19 0H19"/>
-        <circle r="25" stroke="#67E8F9" stroke-opacity=".45" stroke-dasharray="2 6"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="20s" repeatCount="indefinite"/></circle>
-      </g>
-      <text x="0" y="128" text-anchor="middle" fill="#A5F3FC" font-size="11" font-weight="700" letter-spacing="2">02 / DATA &amp; DISTRIBUTED</text>
-      <text x="0" y="151" text-anchor="middle" fill="#F8FAFC" font-size="15" font-weight="800">Process &amp; Connect</text>
-      <text x="0" y="170" text-anchor="middle" fill="#94A3B8" font-size="10">Spark · Airflow · Kafka · Redis</text>
-      <text x="0" y="319" text-anchor="middle" fill="#64748B" font-size="10" letter-spacing="1.2">PIPELINES  /  SERVICES</text>
+      <path d="M-88 108L0 77L88 108L0 139Z" fill="#101827" stroke="#A78BFA" stroke-opacity=".65"/>
+      <path d="M-88 108V123L0 154V139Z" fill="#1C1A32" stroke="#A78BFA" stroke-opacity=".35"/>
+      <path d="M0 139V154L88 123V108Z" fill="#151C2A" stroke="#A78BFA" stroke-opacity=".35"/>
+      <path d="M-52 106L0 87L52 106L0 125Z" fill="url(#r-top)" stroke="#C4B5FD" stroke-opacity=".75"/>
+      <circle cx="0" cy="105" r="28" fill="#0D1117" stroke="#A78BFA" stroke-opacity=".75"/>
+      <g transform="translate(0 105)" stroke="#C4B5FD" stroke-width="2.2" fill="none"><path d="M-15 -9H15V9H-15Z M-15 0H15M0 -14V14"/><circle r="20" stroke-opacity=".3" stroke-dasharray="2 5"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="22s" repeatCount="indefinite"/></circle></g>
+      <text x="0" y="184" fill="#E6EDF3" font-size="12" font-weight="750" letter-spacing="2">02</text>
     </g>
-
     <g transform="translate(750 0)">
-      <path d="M-112 232L0 192L112 232L0 272Z" fill="#0A1021" stroke="#A78BFA" stroke-opacity=".38"/>
-      <path d="M-112 232V250L0 290V272Z" fill="#211B3E" stroke="#A78BFA" stroke-opacity=".28"/>
-      <path d="M0 272V290L112 250V232Z" fill="#151A31" stroke="#A78BFA" stroke-opacity=".28"/>
-      <path d="M-79 229L0 202L79 229L0 257Z" fill="url(#rm-top)" stroke="#C4B5FD" stroke-opacity=".75"/>
-      <circle cx="0" cy="224" r="31" fill="#8B5CF6" fill-opacity=".12" stroke="#C4B5FD" stroke-opacity=".75"/>
-      <g transform="translate(0 224)" fill="none" stroke="url(#rm-violet)" stroke-width="2.3" stroke-linejoin="round">
-        <path d="M-17 -11L0 -21L17 -11V11L0 21L-17 11Z M-17 -11L0 0L17 -11M0 0V21"/>
-        <path d="M-26 0H-19M19 0H26" stroke="#67E8F9"/>
-        <circle r="26" stroke="#C4B5FD" stroke-opacity=".4" stroke-dasharray="2 7"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="22s" repeatCount="indefinite"/></circle>
-      </g>
-      <text x="0" y="128" text-anchor="middle" fill="#DDD6FE" font-size="11" font-weight="700" letter-spacing="2">03 / PRODUCTION MLOPS</text>
-      <text x="0" y="151" text-anchor="middle" fill="#F8FAFC" font-size="15" font-weight="800">Observe &amp; Scale</text>
-      <text x="0" y="170" text-anchor="middle" fill="#94A3B8" font-size="10">Kubernetes · MLflow · OTel</text>
-      <text x="0" y="319" text-anchor="middle" fill="#64748B" font-size="10" letter-spacing="1.2">DEPLOYMENT  /  SIGNALS</text>
+      <path d="M-88 108L0 77L88 108L0 139Z" fill="#101827" stroke="#67E8F9" stroke-opacity=".62"/>
+      <path d="M-88 108V123L0 154V139Z" fill="#122431" stroke="#67E8F9" stroke-opacity=".34"/>
+      <path d="M0 139V154L88 123V108Z" fill="#151F2B" stroke="#67E8F9" stroke-opacity=".34"/>
+      <path d="M-52 106L0 87L52 106L0 125Z" fill="url(#r-top)" stroke="#A5F3FC" stroke-opacity=".72"/>
+      <circle cx="0" cy="105" r="28" fill="#0D1117" stroke="#67E8F9" stroke-opacity=".7"/>
+      <g transform="translate(0 105)" stroke="#A5F3FC" stroke-width="2.2" fill="none" stroke-linejoin="round"><path d="M0 -16L14 -8V8L0 16L-14 8V-8Z M-14 -8L0 0L14 -8M0 0V16"/><circle r="20" stroke-opacity=".28" stroke-dasharray="2 5"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/></circle></g>
+      <text x="0" y="184" fill="#E6EDF3" font-size="12" font-weight="750" letter-spacing="2">03</text>
     </g>
-
     <g transform="translate(1050 0)">
-      <path d="M-112 232L0 192L112 232L0 272Z" fill="#0A1021" stroke="#67E8F9" stroke-opacity=".38"/>
-      <path d="M-112 232V250L0 290V272Z" fill="#102A36" stroke="#67E8F9" stroke-opacity=".28"/>
-      <path d="M0 272V290L112 250V232Z" fill="#151A31" stroke="#67E8F9" stroke-opacity=".28"/>
-      <path d="M-79 229L0 202L79 229L0 257Z" fill="url(#rm-top)" stroke="#67E8F9" stroke-opacity=".75"/>
-      <circle cx="0" cy="224" r="31" fill="#22D3EE" fill-opacity=".10" stroke="#67E8F9" stroke-opacity=".75"/>
-      <g transform="translate(0 224)" fill="none" stroke="url(#rm-cyan)" stroke-width="2.3" stroke-linejoin="round">
-        <path d="M0 -21L19 -12V4C19 16 8 22 0 26C-8 22 -19 16 -19 4V-12Z"/>
-        <path d="M-9 1L-2 8L11 -7" stroke-linecap="round"/>
-        <circle r="27" stroke="#67E8F9" stroke-opacity=".38" stroke-dasharray="2 7"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="24s" repeatCount="indefinite"/></circle>
-      </g>
-      <text x="0" y="128" text-anchor="middle" fill="#A5F3FC" font-size="11" font-weight="700" letter-spacing="2">04 / SECURE ENGINEERING</text>
-      <text x="0" y="151" text-anchor="middle" fill="#F8FAFC" font-size="15" font-weight="800">Harden &amp; Verify</text>
-      <text x="0" y="170" text-anchor="middle" fill="#94A3B8" font-size="10">ASVS · Threat Models · SAST</text>
-      <text x="0" y="319" text-anchor="middle" fill="#64748B" font-size="10" letter-spacing="1.2">RISK  /  ASSURANCE</text>
+      <path d="M-88 108L0 77L88 108L0 139Z" fill="#101827" stroke="#67E8F9" stroke-opacity=".62"/>
+      <path d="M-88 108V123L0 154V139Z" fill="#122431" stroke="#67E8F9" stroke-opacity=".34"/>
+      <path d="M0 139V154L88 123V108Z" fill="#151F2B" stroke="#67E8F9" stroke-opacity=".34"/>
+      <path d="M-52 106L0 87L52 106L0 125Z" fill="url(#r-top)" stroke="#A5F3FC" stroke-opacity=".72"/>
+      <circle cx="0" cy="105" r="28" fill="#0D1117" stroke="#67E8F9" stroke-opacity=".7"/>
+      <g transform="translate(0 105)" stroke="#A5F3FC" stroke-width="2.2" fill="none" stroke-linejoin="round"><path d="M0 -17L15 -9V4C15 14 6 19 0 22C-6 19 -15 14 -15 4V-9Z"/><path d="M-8 1L-2 7L9 -6" stroke-linecap="round"/><circle r="20" stroke-opacity=".28" stroke-dasharray="2 5"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="26s" repeatCount="indefinite"/></circle></g>
+      <text x="0" y="184" fill="#E6EDF3" font-size="12" font-weight="750" letter-spacing="2">04</text>
     </g>
-  </g>
-
-  <path d="M70 352H1130" stroke="url(#rm-path)" stroke-width="1.4" opacity=".7"/>
-  <text x="600" y="377" fill="#64748B" font-family="Segoe UI,Arial,sans-serif" font-size="10" text-anchor="middle" letter-spacing="2">CONTINUOUS LEARNING  ·  HANDS-ON EXPERIMENTS  ·  EVIDENCE OVER CLAIMS</text>
-  <g fill="#C4B5FD">
-    <circle cx="92" cy="117" r="2"><animate attributeName="opacity" values=".15;1;.15" dur="3.1s" repeatCount="indefinite"/></circle>
-    <circle cx="1120" cy="110" r="2"><animate attributeName="opacity" values="1;.2;1" dur="4s" repeatCount="indefinite"/></circle>
-    <circle cx="610" cy="112" r="1.8"><animate attributeName="opacity" values=".2;1;.2" dur="3.7s" repeatCount="indefinite"/></circle>
   </g>
 </svg>
