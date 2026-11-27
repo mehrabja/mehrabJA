@@ -32,34 +32,22 @@
 
 ## ✦ About Me
 
-<table>
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/mehrabja/mehrabja/main/profile.jpg" width="170" alt="Mehrab Jalilian" />
-      <br />
-      <strong>Mehrab Jalilian</strong>
-      <br />
-      <sub>مهراب جلیلیان</sub>
-    </td>
-    <td width="75%" valign="middle">
-      <p>
-        I am an AI engineer and computer engineering student focused on building
-        intelligent systems and turning research ideas into useful software.
-      </p>
-      <p>
-        My project work connects <strong>machine learning and deep learning, LLM-powered
-        research workflows, RAG and knowledge retrieval, data analytics, backend engineering,
-        and systems-level performance and security experiments</strong>.
-      </p>
-      <p>
-        I work across the engineering lifecycle: data preparation, model development and
-        evaluation, API and database design, containerized applications, automated testing,
-        and CI workflows. I maintain <strong>27+ public project repositories</strong> spanning
-        applied AI, full-stack systems, computer vision, NLP, and low-level C++.
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehrabja/mehrabja/main/profile.jpg" width="132" alt="Mehrab Jalilian" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehrabja/mehrabJA/main/profile-about.svg" width="100%" alt="Animated 2D and isometric 3D-inspired introduction to Mehrab Jalilian and his engineering focus" />
+</p>
+
+<p align="center">
+  <strong>Research → Engineer → Evaluate → Deploy</strong><br />
+  <sub>27+ PUBLIC REPOSITORIES · APPLIED AI · SOFTWARE & SYSTEMS ENGINEERING</sub>
+</p>
+
+I am an AI engineer and computer engineering student focused on translating research ideas into useful software. My work spans machine learning and deep learning, computer vision, Persian NLP, LLM/RAG workflows, data systems, backend engineering, and performance/security experiments.
+
+I approach projects across the full engineering lifecycle: from data preparation and model evaluation to API design, databases, containerization, automated testing, and deployment workflows.
 
 ## ◈ Engineering Domains
 
@@ -114,85 +102,69 @@
 
 ## ✧ Selected Projects
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehrabja/mehrabJA/main/profile-projects.svg" width="100%" alt="Animated isometric showcase of selected computer vision, applied machine learning, research AI, and systems projects" />
+</p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🚘 Persian License Plate Recognition</h3>
-      <p>Computer-vision pipeline for Persian license-plate detection and recognition, including YOLO-based experiments.</p>
-      <a href="https://github.com/mehrabja/Persian-Car-Licence-Plate-Detection-and-Recognition">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
-      </a>
+      <p>Persian license-plate detection and recognition pipeline with YOLO-based computer-vision experiments.</p>
+      <a href="https://github.com/mehrabja/Persian-Car-Licence-Plate-Detection-and-Recognition">↗ Explore repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🌿 Greenhouse AI Controller</h3>
       <p>Intelligent greenhouse control combining time-series forecasting and fuzzy-logic reasoning.</p>
-      <a href="https://github.com/mehrabja/Greenhouse-Ai-Controler">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
-      </a>
+      <a href="https://github.com/mehrabja/Greenhouse-Ai-Controler">↗ Explore repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>💬 Snapfood Sentiment Analysis</h3>
-      <p>Persian food-delivery review analysis with text preprocessing, machine learning, and an application workflow.</p>
-      <a href="https://github.com/mehrabja/snapfood-reviews-sentiment-classification-NLP">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
-      </a>
+      <p>Persian food-delivery review analysis using text preprocessing, machine learning, and an application workflow.</p>
+      <a href="https://github.com/mehrabja/snapfood-reviews-sentiment-classification-NLP">↗ Explore repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🏡 California Housing Prediction</h3>
-      <p>Regression workflow with preprocessing, model comparison, hyperparameter tuning, evaluation, and Docker execution.</p>
-      <a href="https://github.com/mehrabja/California-Housing-Price-Prediction">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
-      </a>
+      <p>End-to-end regression workflow with preprocessing, model comparison, tuning, evaluation, and Docker execution.</p>
+      <a href="https://github.com/mehrabja/California-Housing-Price-Prediction">↗ Explore repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>❤️ Heart Disease Diagnosis</h3>
-      <p>Machine-learning classification experiments for heart-disease risk analysis, with notebooks and Docker support.</p>
-      <a href="https://github.com/mehrabja/Heart-Disease-Diagnosis">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
-      </a>
+      <p>Machine-learning classification experiments with notebooks and Docker support.</p>
+      <a href="https://github.com/mehrabja/Heart-Disease-Diagnosis">↗ Explore repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>⚡ MemoryLatencyAnalyzer</h3>
-      <p>Linux/C++ microarchitecture lab for memory and cache performance, timing-side-channel experiments, an educational Spectre Variant 1 demonstration, and synthetic defensive-control evaluation.</p>
-      <a href="https://github.com/mehrabja/MemoryLatencyAnalyzer">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
-      </a>
+      <p>Linux/C++ microarchitecture lab for cache and memory performance, timing-side-channel experiments, and defensive-control evaluation.</p>
+      <a href="https://github.com/mehrabja/MemoryLatencyAnalyzer">↗ Explore repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🔬 Research AI</h3>
-      <p>A full-stack research workspace combining a Next.js interface, FastAPI services, PostgreSQL/pgvector, document processing, grounded RAG, embeddings, and knowledge-graph workflows.</p>
-      <a href="https://github.com/mehrabja/research-ai">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View Research AI" />
-      </a>
+      <p>Full-stack research workspace with Next.js, FastAPI, PostgreSQL/pgvector, grounded RAG, document processing, and knowledge graphs.</p>
+      <a href="https://github.com/mehrabja/research-ai">↗ Explore repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>⚡ spice-ts</h3>
-      <p>A TypeScript-native circuit simulator for Node.js and the browser, with a structured API, reproducible validation, and an MCP server interface for AI agents.</p>
-      <a href="https://github.com/mehrabja/spice-ts">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View spice-ts" />
-      </a>
+      <p>TypeScript-native circuit simulator for Node.js and the browser, with a structured API and MCP server interface.</p>
+      <a href="https://github.com/mehrabja/spice-ts">↗ Explore repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🌌 Interactive Portfolio</h3>
-      <p>A personal web experience built with Astro, Three.js, and GSAP, exploring WebGL visuals, motion design, and interactive presentation.</p>
-      <a href="https://github.com/mehrabja/website">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View portfolio source" />
-      </a>
+      <p>Astro, Three.js, and GSAP web experience exploring WebGL visuals, motion design, and interactive presentation.</p>
+      <a href="https://github.com/mehrabja/website">↗ Explore repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>📈 Data Analytics & EDA</h3>
-      <p>A collection of exploratory analysis workflows covering data cleaning, feature encoding and scaling, missing values, outliers, segmentation, and statistical visualization.</p>
-      <a href="https://github.com/mehrabja/EDA">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View EDA project" />
-      </a>
+      <p>Exploratory workflows for data cleaning, feature encoding, scaling, outlier analysis, segmentation, and visualization.</p>
+      <a href="https://github.com/mehrabja/EDA">↗ Explore repository</a>
     </td>
   </tr>
 </table>
@@ -202,8 +174,6 @@
     <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore all repositories" />
   </a>
 </p>
-
----
 
 ## ✦ Engineering Flagships
 
@@ -381,44 +351,32 @@
 ## 🧭 Expanding Toolkit & Learning Roadmap
 
 <p align="center">
-  <sub>TOOLS AND PRACTICES I AM EXPLORING OR PLAN TO DEEPEN — NOT A CLAIM OF EXPERT-LEVEL PROFICIENCY</sub>
+  <sub>AN EXPLORATION PLAN — TOOLS AND PRACTICES I AM STUDYING OR PLAN TO DEEPEN, NOT A CLAIM OF EXPERT-LEVEL PROFICIENCY</sub>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehrabja/mehrabJA/main/profile-roadmap.svg" width="100%" alt="Animated four-stage isometric learning roadmap for model intelligence, data engineering, production MLOps, cloud, and secure engineering" />
 </p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>LLM & Model Operations</strong><br />
+      <h3>01 · Model Intelligence</h3>
       PyTorch · PEFT / LoRA · QLoRA · vLLM · SGLang · LangGraph · LlamaIndex · RAG evaluation
     </td>
     <td width="50%" valign="top">
-      <strong>Data Engineering & BI</strong><br />
-      Apache Spark · Airflow · dbt · DuckDB · Power BI · Tableau · Data quality and orchestration
+      <h3>02 · Data & Distributed Systems</h3>
+      Apache Spark · Airflow · dbt · DuckDB · Redis · Kafka · RabbitMQ · GraphQL · gRPC · Celery
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Backend & Distributed Systems</strong><br />
-      Redis · Kafka · RabbitMQ · GraphQL · gRPC · Celery · Caching and event-driven architecture
+      <h3>03 · Production MLOps & Cloud</h3>
+      MLflow · Weights & Biases · Kubeflow · Prometheus · Grafana · OpenTelemetry · Evidently · Kubernetes · Helm · Terraform · Ansible · AWS · Azure · GCP · Argo CD
     </td>
     <td width="50%" valign="top">
-      <strong>Cloud & Platform Engineering</strong><br />
-      Kubernetes · Helm · Terraform · Ansible · AWS · Azure · GCP · Argo CD
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Observability & MLOps</strong><br />
-      MLflow · Weights & Biases · Kubeflow · Prometheus · Grafana · OpenTelemetry · Evidently
-    </td>
-    <td width="50%" valign="top">
-      <strong>Application & Defensive Security</strong><br />
-      OWASP ASVS · OWASP Top 10 · OWASP LLM Top 10 · NIST CSF 2.0 · Secure SDLC · Threat modeling
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <strong>Security Tooling to Explore</strong><br />
-      Burp Suite · OWASP ZAP · Nmap · Wireshark · Wazuh · Trivy · Semgrep · Software composition analysis (SCA) · Static and dynamic testing (SAST/DAST)
+      <h3>04 · Secure Engineering</h3>
+      OWASP ASVS · OWASP Top 10 · OWASP LLM Top 10 · NIST CSF 2.0 · Secure SDLC · Threat modeling · Burp Suite · OWASP ZAP · Nmap · Wireshark · Wazuh · Trivy · Semgrep · SCA · SAST · DAST
     </td>
   </tr>
 </table>
@@ -434,8 +392,6 @@
     <img src="https://img.shields.io/badge/NIST-CSF%202.0-7C3AED?style=flat-square" alt="NIST Cybersecurity Framework 2.0" />
   </a>
 </p>
-
----
 
 ## ◉ GitHub Analytics
 
