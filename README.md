@@ -211,7 +211,7 @@
   <sub>PROJECT-BACKED TECHNOLOGIES · TOOLS REFERENCED IN MY PUBLIC PROJECTS</sub>
 </p>
 
-### 💻 Programming Languages
+### 💻 Programming, Scripting & Web Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,html,css,bash&theme=dark&perline=7" alt="Python, C++, TypeScript, JavaScript, HTML, CSS, and Bash" />
@@ -224,7 +224,7 @@
 ### 🧠 Machine Learning & Deep Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,pandas,numpy,jupyter&theme=dark&perline=6" alt="TensorFlow, OpenCV, scikit-learn, Pandas, NumPy, and Jupyter" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy,jupyter&theme=dark&perline=6" alt="TensorFlow, OpenCV, scikit-learn, Pandas, NumPy, and Jupyter" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--Learn-Model%20Pipelines-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
@@ -386,10 +386,10 @@
 </table>
 
 <p align="center">
-  <a href="https://owasp.org/Top10/">
+  <a href="https://owasp.org/projects/Top-Ten">
     <img src="https://img.shields.io/badge/OWASP-TOP%2010%20%7C%202025-8B5CF6?style=flat-square" alt="OWASP Top 10 2025" />
   </a>
-  <a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/">
+  <a href="https://owasp.org/projects/top-10-for-large-language-model-applications">
     <img src="https://img.shields.io/badge/OWASP-LLM%20TOP%2010-0891B2?style=flat-square" alt="OWASP LLM Top 10" />
   </a>
   <a href="https://www.nist.gov/cyberframework">
