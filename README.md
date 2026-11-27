@@ -210,7 +210,7 @@
       <h3>🚀 ModelOps Launchpad</h3>
       <p>Reproducible model training, FastAPI inference, health/readiness, Prometheus histogram metrics, Docker, and CI</p>
       <a href="https://github.com/mehrabja/mehrab/actions/workflows/modelops-ci.yml"><img src="https://github.com/mehrabja/mehrab/actions/workflows/modelops-ci.yml/badge.svg?branch=main" alt="ModelOps Launchpad CI" /></a>
-      <a href="https://github.com/mehrabja/mehrab/actions/runs/45963908194"><img src="https://img.shields.io/badge/CI%20coverage-96%25%20%7C%202026--11--27-7C3AED?style=flat-square&logo=pytest&logoColor=white" alt="ModelOps Launchpad coverage 96 percent, measured 2026-11-27" /></a>
+      <a href="https://github.com/mehrabja/mehrab/actions/runs/45964110710"><img src="https://img.shields.io/badge/CI%20coverage-96%25%20%7C%202026--11--27-7C3AED?style=flat-square&logo=pytest&logoColor=white" alt="ModelOps Launchpad coverage 96 percent, measured 2026-11-27" /></a>
       <a href="https://github.com/mehrabja/mehrab/tree/main/modelops-launchpad">
         <img src="https://img.shields.io/badge/EXPLORE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore ModelOps" />
       </a>
