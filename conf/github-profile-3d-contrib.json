@@ -1,0 +1,19 @@
+[
+  {
+    "type": "normal",
+    "fileName": "contributions.svg",
+    "backgroundColor": "#0D1117",
+    "foregroundColor": "#C9D1D9",
+    "strongColor": "#C4B5FD",
+    "weakColor": "#64748B",
+    "radarColor": "#67E8F9",
+    "growingAnimation": true,
+    "contribColors": [
+      "#17132B",
+      "#33245F",
+      "#5940A6",
+      "#8B5CF6",
+      "#67E8F9"
+    ]
+  }
+]
