@@ -157,7 +157,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>⚡ MemoryLatencyAnalyzer</h3>
-      <p>Linux/C++ tooling for memory latency, cache hierarchy behavior, memory bandwidth, and access-pattern analysis.</p>
+      <p>Linux/C++ microarchitecture lab for memory and cache performance, timing-side-channel experiments, an educational Spectre Variant 1 demonstration, and synthetic defensive-control evaluation.</p>
       <a href="https://github.com/mehrabja/MemoryLatencyAnalyzer">
         <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
       </a>
@@ -188,10 +188,10 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Systems Security Lab</h3>
-      <p>MemoryLatencyAnalyzer includes low-level x86-64 measurement, cache and timing experiments, an educational Spectre Variant 1 demonstration, and synthetic defensive-control evaluation.</p>
-      <a href="https://github.com/mehrabja/MemoryLatencyAnalyzer">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View systems security lab" />
+      <h3>📈 Data Analytics & EDA</h3>
+      <p>A collection of exploratory analysis workflows covering data cleaning, feature encoding and scaling, missing values, outliers, segmentation, and statistical visualization.</p>
+      <a href="https://github.com/mehrabja/EDA">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View EDA project" />
       </a>
     </td>
   </tr>
@@ -234,6 +234,10 @@
   <img src="https://img.shields.io/badge/YOLOv7-Object%20Detection-8B5CF6?style=flat-square" alt="YOLOv7" />
   <img src="https://img.shields.io/badge/Hazm-Persian%20NLP-0891B2?style=flat-square" alt="Hazm" />
   <img src="https://img.shields.io/badge/Scikit--Fuzzy-Fuzzy%20Logic-0891B2?style=flat-square" alt="Scikit-Fuzzy" />
+  <img src="https://img.shields.io/badge/Graph%20Neural%20Networks-7C3AED?style=flat-square" alt="Graph Neural Networks" />
+  <img src="https://img.shields.io/badge/Federated%20Learning-7C3AED?style=flat-square" alt="Federated Learning" />
+  <img src="https://img.shields.io/badge/Differential%20Privacy-0891B2?style=flat-square" alt="Differential Privacy" />
+  <img src="https://img.shields.io/badge/Privacy--Preserving%20ML-7C3AED?style=flat-square" alt="Privacy-preserving machine learning" />
 </p>
 
 <p align="center">
