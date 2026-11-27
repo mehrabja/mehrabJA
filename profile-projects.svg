@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" role="img" aria-label="Selected engineering projects: Persian license plate vision, greenhouse forecasting, research AI and a TypeScript circuit simulator">
+  <defs>
+    <linearGradient id="pr-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080D19"/><stop offset=".52" stop-color="#11152B"/><stop offset="1" stop-color="#17112D"/></linearGradient>
+    <linearGradient id="pr-violet" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DDD6FE"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="pr-cyan" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#CFFAFE"/><stop offset="1" stop-color="#0891B2"/></linearGradient>
+    <linearGradient id="pr-green" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#D9F99D"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="pr-top" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#242344"/><stop offset="1" stop-color="#151A31"/></linearGradient>
+    <linearGradient id="pr-line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6" stop-opacity="0"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient>
+    <pattern id="pr-grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#A5B4FC" stroke-opacity=".05"/></pattern>
+    <filter id="pr-blur"><feGaussianBlur stdDeviation="20"/></filter>
+    <filter id="pr-glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="390" rx="28" fill="url(#pr-bg)"/>
+  <rect width="1200" height="390" rx="28" fill="url(#pr-grid)"/>
+  <ellipse cx="170" cy="110" rx="200" ry="120" fill="#8B5CF6" opacity=".12" filter="url(#pr-blur)"><animate attributeName="cx" values="170;270;170" dur="14s" repeatCount="indefinite"/></ellipse>
+  <ellipse cx="1080" cy="290" rx="210" ry="115" fill="#22D3EE" opacity=".10" filter="url(#pr-blur)"><animate attributeName="cx" values="1080;960;1080" dur="17s" repeatCount="indefinite"/></ellipse>
+  <text x="600" y="48" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="4" text-anchor="middle">SELECTED BUILDS  /  02</text>
+  <text x="600" y="82" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="850" letter-spacing="1.5" text-anchor="middle">FROM PERCEPTION TO INTELLIGENT SYSTEMS</text>
+  <path d="M80 105H1120" stroke="url(#pr-line)" stroke-width="1.5" opacity=".8"/>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g transform="translate(48 140)">
+      <path d="M0 22L226 0L252 16L26 40Z" fill="#0B1022" stroke="#A78BFA" stroke-opacity=".4"/>
+      <path d="M0 22L26 40V206L0 188Z" fill="#17152B" stroke="#A78BFA" stroke-opacity=".32"/>
+      <path d="M26 40L252 16V182L26 206Z" fill="url(#pr-top)" stroke="#A78BFA" stroke-opacity=".55"/>
+      <path d="M40 55L238 34" stroke="url(#pr-line)" stroke-width="2" stroke-dasharray="8 12"><animate attributeName="stroke-dashoffset" values="0;-80" dur="7s" repeatCount="indefinite"/></path>
+      <g transform="translate(88 112)" fill="none" stroke="url(#pr-violet)" stroke-width="2.7" stroke-linejoin="round">
+        <rect x="-37" y="-25" width="74" height="50" rx="7"/>
+        <path d="M-29 -15H29M-29 15H29M-17 -4H17" stroke="#67E8F9"/>
+        <circle cx="-23" cy="-15" r="2" fill="#67E8F9" stroke="none"/>
+        <path d="M-51 -38L-41 -28M51 -38L41 -28M-51 38L-41 28M51 38L41 28" stroke-dasharray="3 4"/>
+        <circle r="52" stroke="#A78BFA" stroke-dasharray="3 8" opacity=".6"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/></circle>
+      </g>
+      <text x="154" y="94" fill="#DDD6FE" font-size="10" font-weight="700" letter-spacing="1.7">COMPUTER VISION</text>
+      <text x="154" y="119" fill="#F8FAFC" font-size="18" font-weight="800">Plate Vision</text>
+      <text x="154" y="139" fill="#A5B4FC" font-size="10">YOLO · OCR · Persian</text>
+      <text x="42" y="187" fill="#64748B" font-size="9" letter-spacing="1.5">DETECT  /  RECOGNIZE</text>
+    </g>
+
+    <g transform="translate(337 140)">
+      <path d="M0 22L226 0L252 16L26 40Z" fill="#0B1022" stroke="#67E8F9" stroke-opacity=".4"/>
+      <path d="M0 22L26 40V206L0 188Z" fill="#10202B" stroke="#67E8F9" stroke-opacity=".32"/>
+      <path d="M26 40L252 16V182L26 206Z" fill="url(#pr-top)" stroke="#67E8F9" stroke-opacity=".55"/>
+      <path d="M40 55L238 34" stroke="url(#pr-line)" stroke-width="2" stroke-dasharray="8 12"><animate attributeName="stroke-dashoffset" values="-80;0" dur="7s" repeatCount="indefinite"/></path>
+      <g transform="translate(90 109)" fill="none" stroke="url(#pr-green)" stroke-width="2.6" stroke-linecap="round">
+        <path d="M0 30V-20M0 -2C-38 -4 -42 -35 -42 -35C-12 -42 3 -22 0 -2ZM0 12C35 8 43 -17 43 -17C16 -29 -1 -9 0 12Z"/>
+        <path d="M-40 44H42" stroke="#67E8F9" stroke-opacity=".7"/>
+        <circle cx="0" cy="-5" r="51" stroke="#67E8F9" stroke-dasharray="2 8" opacity=".5"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="28s" repeatCount="indefinite"/></circle>
+      </g>
+      <text x="154" y="94" fill="#A5F3FC" font-size="10" font-weight="700" letter-spacing="1.7">APPLIED ML</text>
+      <text x="154" y="119" fill="#F8FAFC" font-size="18" font-weight="800">Greenhouse AI</text>
+      <text x="154" y="139" fill="#A5B4FC" font-size="10">Forecasting · Fuzzy logic</text>
+      <text x="42" y="187" fill="#64748B" font-size="9" letter-spacing="1.5">PREDICT  /  CONTROL</text>
+    </g>
+
+    <g transform="translate(626 140)">
+      <path d="M0 22L226 0L252 16L26 40Z" fill="#0B1022" stroke="#A78BFA" stroke-opacity=".4"/>
+      <path d="M0 22L26 40V206L0 188Z" fill="#17152B" stroke="#A78BFA" stroke-opacity=".32"/>
+      <path d="M26 40L252 16V182L26 206Z" fill="url(#pr-top)" stroke="#A78BFA" stroke-opacity=".55"/>
+      <path d="M40 55L238 34" stroke="url(#pr-line)" stroke-width="2" stroke-dasharray="8 12"><animate attributeName="stroke-dashoffset" values="0;-80" dur="7s" repeatCount="indefinite"/></path>
+      <g transform="translate(90 110)" fill="none" stroke="url(#pr-violet)" stroke-width="2.5">
+        <circle r="10" fill="#A78BFA" fill-opacity=".22"/>
+        <circle r="28" stroke-dasharray="3 6"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/></circle>
+        <circle r="49" stroke="#67E8F9" stroke-opacity=".7" stroke-dasharray="2 8"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="25s" repeatCount="indefinite"/></circle>
+        <path d="M-10 0H-27M10 0H27M0 -10V-27M0 10V27"/>
+      </g>
+      <text x="154" y="94" fill="#DDD6FE" font-size="10" font-weight="700" letter-spacing="1.7">LLM / KNOWLEDGE</text>
+      <text x="154" y="119" fill="#F8FAFC" font-size="18" font-weight="800">Research AI</text>
+      <text x="154" y="139" fill="#A5B4FC" font-size="10">RAG · pgvector · Graphs</text>
+      <text x="42" y="187" fill="#64748B" font-size="9" letter-spacing="1.5">RETRIEVE  /  GROUND</text>
+    </g>
+
+    <g transform="translate(915 140)">
+      <path d="M0 22L226 0L252 16L26 40Z" fill="#0B1022" stroke="#67E8F9" stroke-opacity=".4"/>
+      <path d="M0 22L26 40V206L0 188Z" fill="#10202B" stroke="#67E8F9" stroke-opacity=".32"/>
+      <path d="M26 40L252 16V182L26 206Z" fill="url(#pr-top)" stroke="#67E8F9" stroke-opacity=".55"/>
+      <path d="M40 55L238 34" stroke="url(#pr-line)" stroke-width="2" stroke-dasharray="8 12"><animate attributeName="stroke-dashoffset" values="-80;0" dur="7s" repeatCount="indefinite"/></path>
+      <g transform="translate(90 110)" fill="none" stroke="url(#pr-cyan)" stroke-width="2.5" stroke-linejoin="round">
+        <path d="M-38 -22H-10L0 -10L10 -22H38V22H10L0 10L-10 22H-38Z"/>
+        <path d="M-24 0H-8L0 -9L8 9H24" stroke="#A5F3FC" stroke-linecap="round"/>
+        <circle r="51" stroke="#67E8F9" stroke-opacity=".45" stroke-dasharray="2 8"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/></circle>
+      </g>
+      <text x="154" y="94" fill="#A5F3FC" font-size="10" font-weight="700" letter-spacing="1.7">SYSTEMS / TYPESCRIPT</text>
+      <text x="154" y="119" fill="#F8FAFC" font-size="18" font-weight="800">spice-ts</text>
+      <text x="154" y="139" fill="#A5B4FC" font-size="10">Circuit simulation · MCP</text>
+      <text x="42" y="187" fill="#64748B" font-size="9" letter-spacing="1.5">MODEL  /  SIMULATE</text>
+    </g>
+  </g>
+  <path d="M70 365H1130" stroke="url(#pr-line)" stroke-width="1.6"><animate attributeName="opacity" values=".25;1;.25" dur="5s" repeatCount="indefinite"/></path>
+  <circle r="4" fill="#67E8F9" filter="url(#pr-glow)">
+    <animateMotion dur="12s" repeatCount="indefinite" path="M80 365H1120"/>
+  </circle>
+  <text x="600" y="382" fill="#64748B" font-family="Segoe UI,Arial,sans-serif" font-size="9" text-anchor="middle" letter-spacing="2">VISION  ·  PREDICTION  ·  RETRIEVAL  ·  SYSTEMS</text>
+</svg>
