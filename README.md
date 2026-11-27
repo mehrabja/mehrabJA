@@ -201,7 +201,7 @@
       <h3>🛡️ RepoSentinel</h3>
       <p>Local defensive repository scanner for secret patterns, unsafe code/configuration, severity gates, JSON, and SARIF reports</p>
       <a href="https://github.com/mehrabja/mehrab/actions/workflows/reposentinel-ci.yml"><img src="https://github.com/mehrabja/mehrab/actions/workflows/reposentinel-ci.yml/badge.svg?branch=main" alt="RepoSentinel CI" /></a>
-      <a href="https://github.com/mehrabja/mehrab/actions/runs/45963902029"><img src="https://img.shields.io/badge/CI%20coverage-71%25%20%7C%202026--11--27-7C3AED?style=flat-square&logo=pytest&logoColor=white" alt="RepoSentinel coverage 71 percent, measured 2026-11-27" /></a>
+      <a href="https://github.com/mehrabja/mehrab/actions/runs/45964104271"><img src="https://img.shields.io/badge/CI%20coverage-71%25%20%7C%202026--11--27-7C3AED?style=flat-square&logo=pytest&logoColor=white" alt="RepoSentinel coverage 71 percent, measured 2026-11-27" /></a>
       <a href="https://github.com/mehrabja/mehrab/tree/main/reposentinel">
         <img src="https://img.shields.io/badge/EXPLORE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore RepoSentinel" />
       </a>
